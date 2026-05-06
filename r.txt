@@ -1,0 +1,2155 @@
+#EXTM3U
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/fermilena1/c89303bfae02/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/userromando1/ad138d3be1a4/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/Drazun23lgdh/q65M5nwa2A/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/ChristianQ1925/p2smPG25cZ/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/RuthLevy/2d4db1bf61a6/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/franciscoarroyuelo2510/6045b74cdbad/9538
+#EXTINF:-1 group-title="COMBATE",Brasil: COMBATE FHD H265
+http://latinapro.net:25461/lazaroperez/perez3/366.ts
+#EXTINF:-1 group-title="ESPN 2",Brasil: ESPN 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/3744.ts
+#EXTINF:-1 group-title="ESPN 3",Brasil: ESPN 3 FHD
+http://latinapro.net:25461/lazaroperez/perez3/375.ts
+#EXTINF:-1 group-title="ESPN 4",Brasil: ESPN 4 HD
+http://latinapro.net:25461/lazaroperez/perez3/394.ts
+#EXTINF:-1 group-title="SPORTV",Brasil: SPORTV FHD
+http://latinapro.net:25461/lazaroperez/perez3/404.ts
+#EXTINF:-1 group-title="SPORTV 2",Brasil: SPORTV 2 FHD
+http://latinapro.net:25461/lazaroperez/perez3/402.ts
+#EXTINF:-1 group-title="SPORTV 3",Brasil: SPORTV 3 FHD
+http://latinapro.net:25461/lazaroperez/perez3/403.ts
+#EXTINF:-1 group-title="ESPN 2",AU: ESPN 2
+http://vipboacnn.top:8080/VIP014391751994706511/b425720d22ff/25027
+#EXTINF:-1 group-title="ESPN 3",BR: ESPN 3 HD
+http://ip96.uk:8080//live/Ghosia104/pathan104/304297.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/130094
+#EXTINF:-1 group-title="ESPN 2",CAR | ESPN 2
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/90755
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO3KAeXEKYwfgrwYDijPuNQ3ASzdZb-osVtbqS2xV_ZOe
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWE2YtnyEqwnT_zQuxgosebi
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWEcltQBXpRUfnG3FibYhFAs
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2 HD
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWEiADa8Kq6mvwh3p7i5cHhY
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3 FHD
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWFVxkvZ4BMYfZlmMXVPCX4r
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 1
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWHRKhFGKSm62MHsMdV-mSJv
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 2
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWGywyT1vGw8JlveranCjkdH
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 3
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWGJva0M5obdeFgzpcVHUKiB
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 4
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWFY0z3p6NxKe5mE6qnVPFGh
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 5
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWG_zPXLHHTjuuJAqllBHgGW
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 6
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWFej_moxg5qzUAv4Bonj-8B
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 7
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWGhLSZq4VYtYu0A6B7QsX0v
+#EXTINF:-1 group-title="COMBATE",BR | COMBATE
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO8btvEhAH26_TwJ5SMweXAUGYEWGlO91hjSAXvtXqPRc
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO0gi0N4JbaMvh4EP9ujZVYHv2CtLuKRn8VNvgZg8Lzzu
+#EXTINF:-1 group-title="ESPN 3",SAT | ESPN 3
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7U4ln5JwSBJ6JNHi_psQTmMgJndoNGlvLNBhSh3pTVj
+#EXTINF:-1 group-title="ESPN 2",SAT | ESPN 2
+https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7U4ln5JwSBJ6JNHi_psQTnObm4GutrACsBERfPPgLv6
+#EXTINF:-1 group-title="COMBATE",Brasil: COMBATE FHD H265
+http://latinapro.net:25461/lazaroperez/perez3/366.ts
+#EXTINF:-1 group-title="ESPN 2",Brasil: ESPN 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/3744.ts
+#EXTINF:-1 group-title="ESPN 3",Brasil: ESPN 3 FHD
+http://latinapro.net:25461/lazaroperez/perez3/375.ts
+#EXTINF:-1 group-title="ESPN 4",Brasil: ESPN 4 HD
+http://latinapro.net:25461/lazaroperez/perez3/394.ts
+#EXTINF:-1 group-title="SPORTV",Brasil: SPORTV FHD
+http://latinapro.net:25461/lazaroperez/perez3/404.ts
+#EXTINF:-1 group-title="SPORTV 2",Brasil: SPORTV 2 FHD
+http://latinapro.net:25461/lazaroperez/perez3/402.ts
+#EXTINF:-1 group-title="SPORTV 3",Brasil: SPORTV 3 FHD
+http://latinapro.net:25461/lazaroperez/perez3/403.ts
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.diablotv.net:8080/rociollusca/46e972693b56/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.diablotv.net:8080/NadCan04132019/81c35037b2af/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.diablotv.net:8080/SBoni6861/sboni6861/9538
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.diablotv.net:8080/Josevelasco/4037d63c9851/9538
+#EXTINF:-1 group-title="COMBATE",COMBATE  FHD H.265
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/81586.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/13506.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/8716.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30066.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30067.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/13519.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/131131.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD*
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/131132.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/8787.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30074.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/26726.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30082.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/69096.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/9107.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30126.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30127.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/13586.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/9104.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30122.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 FHD H.265
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/81593.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/9106.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30124.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/21mm5vzopw/zv1u5y9o21/30125.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE  FHD H.265
+http://wroxfibra.com:80/5219799102/4179454259/81586.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE
+http://wroxfibra.com:80/5219799102/4179454259/13506.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD
+http://wroxfibra.com:80/5219799102/4179454259/8716.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/5219799102/4179454259/30066.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/5219799102/4179454259/30067.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD 
+http://wroxfibra.com:80/5219799102/4179454259/30072.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD*
+http://wroxfibra.com:80/5219799102/4179454259/131132.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://wroxfibra.com:80/5219799102/4179454259/8787.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD 
+http://wroxfibra.com:80/5219799102/4179454259/30074.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 
+http://wroxfibra.com:80/5219799102/4179454259/26726.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD 
+http://wroxfibra.com:80/5219799102/4179454259/30082.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://wroxfibra.com:80/5219799102/4179454259/69096.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD
+http://wroxfibra.com:80/5219799102/4179454259/9107.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/5219799102/4179454259/30126.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/5219799102/4179454259/30127.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://wroxfibra.com:80/5219799102/4179454259/13586.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD 
+http://wroxfibra.com:80/5219799102/4179454259/30122.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD 
+http://wroxfibra.com:80/5219799102/4179454259/30123.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 FHD H.265
+http://wroxfibra.com:80/5219799102/4179454259/81593.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD
+http://wroxfibra.com:80/5219799102/4179454259/9106.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/5219799102/4179454259/30124.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/5219799102/4179454259/30125.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE  FHD H.265
+http://wroxfibra.com:80/65658661/52837489/81586.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE
+http://wroxfibra.com:80/65658661/52837489/13506.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD
+http://wroxfibra.com:80/65658661/52837489/8716.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/65658661/52837489/30066.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/65658661/52837489/30067.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD 
+http://wroxfibra.com:80/65658661/52837489/30072.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD*
+http://wroxfibra.com:80/65658661/52837489/131132.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://wroxfibra.com:80/65658661/52837489/8787.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD 
+http://wroxfibra.com:80/65658661/52837489/30074.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 
+http://wroxfibra.com:80/65658661/52837489/26726.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD 
+http://wroxfibra.com:80/65658661/52837489/30083.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD 
+http://wroxfibra.com:80/65658661/52837489/30082.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://wroxfibra.com:80/65658661/52837489/69096.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD
+http://wroxfibra.com:80/65658661/52837489/9107.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/65658661/52837489/30126.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/65658661/52837489/30127.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://wroxfibra.com:80/65658661/52837489/13586.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD 
+http://wroxfibra.com:80/65658661/52837489/30122.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD 
+http://wroxfibra.com:80/65658661/52837489/30123.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 FHD H.265
+http://wroxfibra.com:80/65658661/52837489/81593.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD
+http://wroxfibra.com:80/65658661/52837489/9106.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/65658661/52837489/30124.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/65658661/52837489/30125.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE  FHD H.265
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/81586.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/13506.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/8716.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30066.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30067.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30072.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD*
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/131132.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30074.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/26726.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30082.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/69096.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/9107.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30126.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30127.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/13586.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/9104.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30123.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 FHD H.265
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/81593.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30124.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/r6ks7ccis8/my9akmuj7r/30125.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE  FHD H.265
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/81586.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/13506.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/8716.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30066.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30067.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30072.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD*
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/131132.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30074.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/26726.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 FHD
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/8828.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 FHD*
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/131133.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30082.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/69096.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/9107.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30126.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30127.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/13586.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 FHD
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/9103.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/9104.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30123.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 FHD H.265
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/81593.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/9106.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 FHD
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/9105.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30124.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD 
+http://wroxfibra.com:80/w60p12ula2/7t0wxrnlg7/30125.ts
+#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere 2 (TV)(720)
+http://tv.proyectox.vip:8080/DaisyR006/uqxnW5snzg/9665
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/DaisyR006/uqxnW5snzg/9538
+#EXTINF:-1 group-title="UFC",DEPORTES - UFC Fight PASS (T)(720)
+http://tv.proyectox.vip:8080/DaisyR006/uqxnW5snzg/9611
+#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere 2 (TV)(720)
+http://tv.proyectox.vip:8080/enrillanes70/paXi8brg0p/9665
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/enrillanes70/paXi8brg0p/9538
+#EXTINF:-1 group-title="UFC",DEPORTES - UFC Fight PASS (T)(720)
+http://tv.proyectox.vip:8080/enrillanes70/paXi8brg0p/9611
+#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere 2 (TV)(720)
+http://tv.proyectox.vip:8080/enrillanes70/paXi8brg0p/9665
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/enrillanes70/paXi8brg0p/9538
+#EXTINF:-1 group-title="UFC",DEPORTES - UFC Fight PASS (T)(720)
+http://tv.proyectox.vip:8080/enrillanes70/paXi8brg0p/9611
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ PREMIERE CLUBES BR (HD) ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»1ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/568
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ PREMIERE CLUBES BR (HD) ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»2ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/569
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ PREMIERE 1 BR (HD)
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/561
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ PREMIERE 3 BR (HD)
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/563
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ PREMIERE 4 BR (HD)
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/564
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ PREMIERE 5 BR (HD)
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/565
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ PREMIERE 7 BR (HD)
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/567
+#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/27157
+#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/27202
+#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/27203
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ ESPN 2 (HD)
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/54414
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ ESPN 3 (HD)
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/54415
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ ESPN 4 (HD)
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/54416
+#EXTINF:-1 group-title="ESPN 2",LA_HD_MEX2:ESPN 2 HD
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/24915
+#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/59419
+#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/59421
+#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
+http://canal-pro.xyz:8080/mariopalazon/DpwcAPLhFXpR/59515
+#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
+http://canal-pro.xyz:8080/juan18/83e45w87w/20430
+#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+http://canal-pro.xyz:8080/juan18/83e45w87w/568
+#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+http://canal-pro.xyz:8080/juan18/83e45w87w/569
+#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+http://canal-pro.xyz:8080/juan18/83e45w87w/561
+#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
+http://canal-pro.xyz:8080/juan18/83e45w87w/563
+#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
+http://canal-pro.xyz:8080/juan18/83e45w87w/564
+#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+http://canal-pro.xyz:8080/juan18/83e45w87w/565
+#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
+http://canal-pro.xyz:8080/juan18/83e45w87w/567
+#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
+http://canal-pro.xyz:8080/juan18/83e45w87w/27202
+#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+http://canal-pro.xyz:8080/juan18/83e45w87w/54414
+#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+http://canal-pro.xyz:8080/juan18/83e45w87w/54415
+#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+http://canal-pro.xyz:8080/juan18/83e45w87w/54416
+#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
+http://canal-pro.xyz:8080/juan18/83e45w87w/59421
+#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
+http://canal-pro.xyz:8080/juan18/83e45w87w/59514
+#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
+http://canal-pro.xyz:8080/juan18/83e45w87w/59515
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://canal-pro.xyz:8080/juan18/83e45w87w/243024
+#EXTINF:-1 group-title="PREMIERE",CineStar Premiere 1
+http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/6543
+#EXTINF:-1 group-title="PREMIERE",CineStar Premiere 2
+http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/6542
+#EXTINF:-1 group-title="PREMIERE",CineStar Premiere 1 HD
+http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/431
+#EXTINF:-1 group-title="PREMIERE",CineStar Premiere 2 HD
+http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/430
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 15 FHD
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/136349
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/144341
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 1
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/144566
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/144567
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4838
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4855
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4892
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4902
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4903
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4904
+#EXTINF:-1 group-title="ESPN 2",AU: ESPN 2
+http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/25027
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 3 FHD
+http://revipeofercmv.top:8080/VIP01545171425617373/ca75a1a2314d/136337
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01545171425617373/ca75a1a2314d/146598
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01545171425617373/ca75a1a2314d/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01545171425617373/ca75a1a2314d/146602
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP01545171425617373/ca75a1a2314d/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP01545171425617373/ca75a1a2314d/3436
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/146597
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/146598
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/146603
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/146606
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 28 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/146624
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/146625
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 1
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/144380
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/144567
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://revipeofercmv.top:8080/VIP011561741016136362/2154ea8ada02/4892
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 1 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136335
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 2 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136336
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 3 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136337
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 4 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136338
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 6 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136340
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 7 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136341
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 11 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136345
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 12 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136346
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 13 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136347
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 14 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136348
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 15 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136349
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 17 FHD
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/136351
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146599
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146601
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146602
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146603
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146607
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146608
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146609
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146610
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146611
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146612
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146613
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146614
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146617
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146618
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146620
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146621
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146625
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/146626
+#EXTINF:-1 group-title="ESPN 2",AU: ESPN 2
+http://revipeofercmv.top:8080/VIP01593172570151997/8408f07c4894/25027
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 1 FHD
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/136335
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 2 FHD
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/136336
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 4 FHD
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/136338
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 15 FHD
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/136349
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146597
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146599
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146602
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146606
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146607
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146608
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146609
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146610
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146617
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146618
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146619
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/146625
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 1
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/3012
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 1
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/3435
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 1
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/144340
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 2
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/144341
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 2
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/144381
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 1
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/144566
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/144567
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4838
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4855
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4892
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4902
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4903
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4904
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP018651750671468497/1ae3115f72b5/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP018651750671468497/1ae3115f72b5/146608
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP018651750671468497/1ae3115f72b5/146609
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP018651750671468497/1ae3115f72b5/3435
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP018651750671468497/1ae3115f72b5/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 2
+http://vipnorseman.top:8080/VIP018651750671468497/1ae3115f72b5/144381
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://vipnorseman.top:8080/VIP018651750671468497/1ae3115f72b5/4903
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 3 FHD
+http://vipnorseman.top:8080/VIP013791745391910404/43726ec43b76/136337
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP013791745391910404/43726ec43b76/3436
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://vipnorseman.top:8080/VIP013791745391910404/43726ec43b76/144567
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://vipnorseman.top:8080/VIP013791745391910404/43726ec43b76/4838
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://vipnorseman.top:8080/VIP013791745391910404/43726ec43b76/4892
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://vipnorseman.top:8080/VIP013791745391910404/43726ec43b76/4902
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://vipnorseman.top:8080/VIP013791745391910404/43726ec43b76/4903
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://vipnorseman.top:8080/VIP013791745391910404/43726ec43b76/4904
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 1 FHD
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/136335
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 2 FHD
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/136336
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146597
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146598
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146599
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146601
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146602
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146606
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146608
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146609
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146610
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146611
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146613
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146614
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146616
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146617
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146618
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146619
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146620
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146621
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146623
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 28 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146624
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146625
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/146626
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/3012
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/3435
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/144340
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 2
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/144381
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/144567
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/4838
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/4855
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/4892
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/4902
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/4903
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://vipnorseman.top:8080/VIP014681750430856494/148f776ed66e/4904
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 7 FHD
+http://vipnorseman.top:8080/VIP0115174023890722/91740238907762/136341
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP0115174023890722/91740238907762/146602
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP0115174023890722/91740238907762/3013
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://vipnorseman.top:8080/VIP0115174023890722/91740238907762/4838
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146597
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146598
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146599
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146601
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146602
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146603
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146606
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146607
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146608
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146609
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146611
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146612
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146614
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146615
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146616
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146618
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146619
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146620
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 26 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146622
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/146623
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/3012
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/3435
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/144340
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/144341
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 1
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/144380
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 2
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/144381
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 1
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/144566
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/144567
+#EXTINF:-1 group-title="ESPN 2",AU: ESPN 2
+http://vipnorseman.top:8080/SVIP0191174614595595/11747348030304/25027
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/4838
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/4855
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/4889
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/4892
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/4902
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/4903
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/4904
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/3012
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/3435
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/144340
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/144341
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 1
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/144380
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 2
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/144381
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 1
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/144566
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/144567
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 5 FHD
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/136339
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 15 FHD
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/136349
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 17 FHD
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/136351
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/146597
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/146598
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/146599
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/146606
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/146618
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/146620
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/146621
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP013201751290218503/adb698998b73/146626
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 4 FHD
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/136338
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 5 FHD
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/136339
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 10 FHD
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/136344
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 11 FHD
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/136345
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 12 FHD
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/136346
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 14 FHD
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/136348
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 17 FHD
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/136351
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146601
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146602
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146603
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146606
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146607
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146608
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146609
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146610
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146611
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146613
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146614
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146615
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146616
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146617
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146618
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146619
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146621
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146623
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146625
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/146626
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/3012
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/3013
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/144340
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 2
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/144381
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 1
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/144566
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/144567
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/4838
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/4855
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/4892
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/4902
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/4903
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://vipnorseman.top:8080/VIP017831758811112350/a5ab7d3174c3/4904
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 4 FHD
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/136338
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 12 FHD
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/136346
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 13 FHD
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/136347
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 14 FHD
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/136348
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 15 FHD
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/136349
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146597
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146598
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146599
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146600
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146601
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146611
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146612
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146613
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146614
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146616
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146617
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146618
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146619
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146620
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146621
+#EXTINF:-1 group-title="PREMIERE",UK: Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/146623
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/3012
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/3435
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 1
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/144340
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 2
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/144341
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 2
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/144381
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 1
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/144566
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/4838
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/4855
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/4892
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/4902
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/4903
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/4904
+#EXTINF:-1 group-title="ESPN 2",AU: ESPN 2
+http://vipnorseman.top:8080/VIP015161740929838360/cb57039fb178/25027
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE HD
+http://goood.mine.nu:8080/ritual424/424ritual/45814
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV HD
+http://goood.mine.nu:8080/ritual424/424ritual/45931
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://goood.mine.nu:8080/ritual424/424ritual/45932
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://goood.mine.nu:8080/ritual424/424ritual/45934
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3 HD
+http://goood.mine.nu:8080/ritual424/424ritual/45935
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE HD
+http://goood.mine.nu:8080/ro50/50ro/45814
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES HD
+http://goood.mine.nu:8080/ro50/50ro/45907
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV HD
+http://goood.mine.nu:8080/ro50/50ro/45931
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://goood.mine.nu:8080/ro50/50ro/45932
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://goood.mine.nu:8080/ro50/50ro/45934
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3 HD
+http://goood.mine.nu:8080/ro50/50ro/45935
+#EXTINF:-1 group-title="PREMIERE",BEIN PREMIERE 3
+http://florincercel.gotdns.ch:8080/Razvan_popescu/dPPbyhpT/498943
+#EXTINF:-1 group-title="PREMIERE",BEIN PREMIERE 1
+http://florincercel.gotdns.ch:8080/Razvan_popescu/dPPbyhpT/498942
+#EXTINF:-1 group-title="PREMIERE",BEIN PREMIERE 2
+http://florincercel.gotdns.ch:8080/Razvan_popescu/dPPbyhpT/498941
+#EXTINF:-1 group-title="PREMIERE",OpenTv Premiere 2023
+http://open.secretsofsibiu.ro:80/eduardrazvannita/ayI6OjyufP6ubTDDM0PCSDspJQ7sbA/54109
+#EXTINF:-1 group-title="PREMIERE",Anume Premiere 2025
+http://open.secretsofsibiu.ro:80/eduardrazvannita/ayI6OjyufP6ubTDDM0PCSDspJQ7sbA/82222
+#EXTINF:-1 group-title="PREMIERE",Xtream Romania Premiere 4K
+http://open.secretsofsibiu.ro:80/eduardrazvannita/ayI6OjyufP6ubTDDM0PCSDspJQ7sbA/58661
+#EXTINF:-1 group-title="PREMIERE",Xtream Romania Premiere 4K 2
+http://open.secretsofsibiu.ro:80/eduardrazvannita/ayI6OjyufP6ubTDDM0PCSDspJQ7sbA/58662
+#EXTINF:-1 group-title="PREMIERE",BEIN PREMIERE 3
+http://florincercel.gotdns.ch:8080/tamer_sahawneh/p3c8968Cem/498943
+#EXTINF:-1 group-title="PREMIERE",BEIN PREMIERE 1
+http://florincercel.gotdns.ch:8080/tamer_sahawneh/p3c8968Cem/498942
+#EXTINF:-1 group-title="PREMIERE",BEIN PREMIERE 2
+http://florincercel.gotdns.ch:8080/tamer_sahawneh/p3c8968Cem/498941
+#EXTINF:-1 group-title="PREMIERE",BEIN MOVIES PREMIERE 2 ÃŠÅ“Ã¡Â´â€¦
+http://boxviptv.com:25461/Punhanx0733/66278363/261
+#EXTINF:-1 group-title="PREMIERE",BCU ÃÅ¡ÃÂ¸ÃÂ½ÃÂ¾ÃÂ·ÃÂ°ÃÂ» Premiere 1 HD
+http://boxviptv.com:25461/Punhanx0733/66278363/222
+#EXTINF:-1 group-title="PREMIERE",BCU ÃÅ¡ÃÂ¸ÃÂ½ÃÂ¾ÃÂ·ÃÂ°ÃÂ» Premiere 2 HD
+http://boxviptv.com:25461/Punhanx0733/66278363/223
+#EXTINF:-1 group-title="PREMIERE",BCU ÃÅ¡ÃÂ¸ÃÂ½ÃÂ¾ÃÂ·ÃÂ°ÃÂ» Premiere 3 HD
+http://boxviptv.com:25461/Punhanx0733/66278363/224
+#EXTINF:-1 group-title="COMBATE",COMBATE  FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/81586.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/13506.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/8716.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30066.ts
+#EXTINF:-1 group-title="COMBATE",COMBATE HD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30067.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/81587.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/13519.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/8786.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/131131.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/13520.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD*
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/131132.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/8787.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/81578.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/21647.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/26726.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/8828.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 FHD*
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/131133.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30083.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/125438.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9037.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30043.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/54902.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/94194.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/91393.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/54903.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/13583.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/81582.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9022.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 FHD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/13576.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/69028.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/69029.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9021.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/81583.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 FHD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/69030.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 FHD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30050.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/69031.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30051.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9026.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD.
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9024.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108295.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 FHD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108296.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 FHD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108299.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108298.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 FHD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108302.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/82753.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 FHD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108308.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108313.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 FHD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108314.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 FHD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108317.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108315.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108316.ts
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/108318.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/81591.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/69096.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/91919.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9107.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9111.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30126.ts
+#EXTINF:-1 group-title="SPORTV",SPORTV HD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30127.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/81592.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/13586.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9103.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9104.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30122.ts
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 HD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30123.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 FHD H.265
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/81593.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9106.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 FHD
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/9105.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD Ã‚Â¹
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30124.ts
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD Ã‚Â²
+http://govfederal.org:80/n42k30i0cr/6ncnptcdz2/30125.ts
+#EXTINF:-1 group-title="COMBATE",BR | Combate HD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/236507.ts
+#EXTINF:-1 group-title="ESPN 2",BR | ESPN 2 HD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/236464.ts
+#EXTINF:-1 group-title="SPORTV 3",BR | SporTV 3 HD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/236459.ts
+#EXTINF:-1 group-title="SPORTV",BR | SporTV 1 HD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/236460.ts
+#EXTINF:-1 group-title="SPORTV 2",BR | SporTV 2 FHD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/236461.ts
+#EXTINF:-1 group-title="SPORTV 2",BR | SporTV 2 HD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/236468.ts
+#EXTINF:-1 group-title="COMBATE",El ÃƒÂºltimo combate (Game of Death II)
+http://imaxplay.net:8880/movie/JainerGuzman16/NRWAK/90167.avi
+#EXTINF:-1 group-title="COMBATE",El ÃƒÂºltimo combate (Game of Death II)
+http://imaxplay.net:8880/movie/JainerGuzman16/NRWAK/90166.avi
+#EXTINF:-1 group-title="COMBATE",Dragon Ball Z: El combate definitivo
+http://imaxplay.net:8880/movie/JainerGuzman16/NRWAK/14388.avi
+#EXTINF:-1 group-title="ESPN 2",SPORTS | ESPN 2 HD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/170950.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/439772.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 ARG
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/185666.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 BRA
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/456549.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 FHD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/439757.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 MEX
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/518965.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 SD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/439802.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 ARG
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/518963.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 FHD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/518962.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 MEX
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/9530.ts
+#EXTINF:-1 group-title="ESPN 4",DEP | ESPN 4 FHD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/224430.ts
+#EXTINF:-1 group-title="ESPN 4",DEP | ESPN 4 HD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/19485.ts
+#EXTINF:-1 group-title="ESPN 4",DEP | ESPN 4 SD
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/439770.ts
+#EXTINF:-1 group-title="PREMIERE",DEP | PREMIERE 3
+http://imaxplay.net:8880//live/JainerGuzman16/NRWAK/49111.ts
+#EXTINF:-1 group-title="COMBATE",BR | Combate HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236507.ts
+#EXTINF:-1 group-title="ESPN 2",BR | ESPN 2 HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236464.ts
+#EXTINF:-1 group-title="SPORTV 3",BR | SporTV 3 HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236459.ts
+#EXTINF:-1 group-title="PREMIERE",BR | Premiere 3 HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236568.ts
+#EXTINF:-1 group-title="PREMIERE",BR | Premiere 4 HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236569.ts
+#EXTINF:-1 group-title="SPORTV",BR | SporTV 1 HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236460.ts
+#EXTINF:-1 group-title="SPORTV 2",BR | SporTV 2 FHD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236461.ts
+#EXTINF:-1 group-title="ESPN BRASIL",BR | ESPN Brasil HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236456.ts
+#EXTINF:-1 group-title="SPORTV 2",BR | SporTV 2 HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/236468.ts
+#EXTINF:-1 group-title="COMBATE",El ÃƒÂºltimo combate (Game of Death II)
+http://imaxplay.net:8880/movie/JDZKN/DFJHK/90167.avi
+#EXTINF:-1 group-title="COMBATE",El ÃƒÂºltimo combate (Game of Death II)
+http://imaxplay.net:8880/movie/JDZKN/DFJHK/90166.avi
+#EXTINF:-1 group-title="COMBATE",Arena (Combate mortal)
+http://imaxplay.net:8880/movie/JDZKN/DFJHK/89316.avi
+#EXTINF:-1 group-title="ESPN 2",SPORTS | ESPN 2 HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/170950.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2
+http://imaxplay.net:8880//live/JDZKN/DFJHK/439772.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 ARG
+http://imaxplay.net:8880//live/JDZKN/DFJHK/185666.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 FHD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/439757.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 MEX
+http://imaxplay.net:8880//live/JDZKN/DFJHK/518965.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 SD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/439802.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 ARG
+http://imaxplay.net:8880//live/JDZKN/DFJHK/518963.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 FHD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/518962.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 MEX
+http://imaxplay.net:8880//live/JDZKN/DFJHK/9530.ts
+#EXTINF:-1 group-title="ESPN 4",DEP | ESPN 4 HD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/19485.ts
+#EXTINF:-1 group-title="ESPN 4",DEP | ESPN 4 SD
+http://imaxplay.net:8880//live/JDZKN/DFJHK/439770.ts
+#EXTINF:-1 group-title="PREMIERE",DEP | PREMIERE 3
+http://imaxplay.net:8880//live/JDZKN/DFJHK/49111.ts
+#EXTINF:-1 group-title="COMBATE",BR | Combate HD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/236507.ts
+#EXTINF:-1 group-title="SPORTV 3",BR | SporTV 3 HD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/236459.ts
+#EXTINF:-1 group-title="PREMIERE",BR | Premiere 3 HD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/236568.ts
+#EXTINF:-1 group-title="SPORTV",BR | SporTV 1 HD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/236460.ts
+#EXTINF:-1 group-title="SPORTV 2",BR | SporTV 2 FHD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/236461.ts
+#EXTINF:-1 group-title="ESPN BRASIL",BR | ESPN Brasil HD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/236456.ts
+#EXTINF:-1 group-title="SPORTV 2",BR | SporTV 2 HD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/236468.ts
+#EXTINF:-1 group-title="UFC",UK: UFC Fight Pass
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/555126.ts
+#EXTINF:-1 group-title="COMBATE",El ÃƒÂºltimo combate (Game of Death II)
+http://imaxplay.net:8880/movie/JorgeGomez/TPXVU/90167.avi
+#EXTINF:-1 group-title="COMBATE",El ÃƒÂºltimo combate (Game of Death II)
+http://imaxplay.net:8880/movie/JorgeGomez/TPXVU/90166.avi
+#EXTINF:-1 group-title="COMBATE",Arena (Combate mortal)
+http://imaxplay.net:8880/movie/JorgeGomez/TPXVU/89316.avi
+#EXTINF:-1 group-title="COMBATE",Dragon Ball Z: El combate definitivo
+http://imaxplay.net:8880/movie/JorgeGomez/TPXVU/14388.avi
+#EXTINF:-1 group-title="ESPN 2",SPORTS | ESPN 2 HD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/170950.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/439772.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 ARG
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/185666.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 BRA
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/456549.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 MEX
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/518965.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 SD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/439802.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 ARG
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/518963.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 FHD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/518962.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 MEX
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/9530.ts
+#EXTINF:-1 group-title="ESPN 4",DEP | ESPN 4 SD
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/439770.ts
+#EXTINF:-1 group-title="PREMIERE",DEP | PREMIERE 3
+http://imaxplay.net:8880//live/JorgeGomez/TPXVU/49111.ts
+#EXTINF:-1 group-title="COMBATE",BR | Combate HD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/236507.ts
+#EXTINF:-1 group-title="SPORTV 3",BR | SporTV 3 HD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/236459.ts
+#EXTINF:-1 group-title="SPORTV",BR | SporTV 1 HD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/236460.ts
+#EXTINF:-1 group-title="SPORTV 2",BR | SporTV 2 FHD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/236461.ts
+#EXTINF:-1 group-title="ESPN BRASIL",BR | ESPN Brasil HD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/236456.ts
+#EXTINF:-1 group-title="SPORTV 2",BR | SporTV 2 HD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/236468.ts
+#EXTINF:-1 group-title="COMBATE",El ÃƒÂºltimo combate (Game of Death II)
+http://imaxplay.net:8880/movie/jpgarcia08/WHNMW/90167.avi
+#EXTINF:-1 group-title="COMBATE",Arena (Combate mortal)
+http://imaxplay.net:8880/movie/jpgarcia08/WHNMW/89316.avi
+#EXTINF:-1 group-title="COMBATE",Dragon Ball Z: El combate definitivo
+http://imaxplay.net:8880/movie/jpgarcia08/WHNMW/14388.avi
+#EXTINF:-1 group-title="ESPN 2",SPORTS | ESPN 2 HD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/170950.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 ARG
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/185666.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 BRA
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/456549.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 FHD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/439757.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 MEX
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/518965.ts
+#EXTINF:-1 group-title="ESPN 2",DEP | ESPN 2 SD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/439802.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 ARG
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/518963.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 FHD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/518962.ts
+#EXTINF:-1 group-title="ESPN 3",DEP | ESPN 3 MEX
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/9530.ts
+#EXTINF:-1 group-title="ESPN 4",DEP | ESPN 4 HD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/19485.ts
+#EXTINF:-1 group-title="ESPN 4",DEP | ESPN 4 SD
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/439770.ts
+#EXTINF:-1 group-title="PREMIERE",DEP | PREMIERE 3
+http://imaxplay.net:8880//live/jpgarcia08/WHNMW/49111.ts
+#EXTINF:-1 group-title="PREMIERE",OpenTv Premiere 2023
+http://update.miicrosoft.es:80/gavriliuc_ioana/fSJVqkXJb7/54109
+#EXTINF:-1 group-title="PREMIERE",Anume Premiere 2025
+http://update.miicrosoft.es:80/gavriliuc_ioana/fSJVqkXJb7/82222
+#EXTINF:-1 group-title="PREMIERE",Xtream Romania Premiere 4K
+http://update.miicrosoft.es:80/gavriliuc_ioana/fSJVqkXJb7/58661
+#EXTINF:-1 group-title="PREMIERE",Xtream Romania Premiere 4K 2
+http://update.miicrosoft.es:80/gavriliuc_ioana/fSJVqkXJb7/58662
+#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere 2 (TV)(720)
+http://tv.diablotv.net:8080/SABORaPERU22/d597d85732a2/9665
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (TV)(720)
+http://tv.diablotv.net:8080/SABORaPERU22/d597d85732a2/9538
+#EXTINF:-1 group-title="UFC",DEPORTES - UFC Fight PASS (i)(720)
+http://tv.diablotv.net:8080/SABORaPERU22/d597d85732a2/9611
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 1 FHD
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/136335
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 2 FHD
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/136336
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 3 FHD
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/136337
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 4 FHD
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/136338
+#EXTINF:-1 group-title="PREMIERE",IT: SKY PRIMAFILA PREMIERE 12 FHD
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/136346
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 1
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/3012
+#EXTINF:-1 group-title="PREMIERE",CRO: CINESTAR PREMIERE 2
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/3013
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 1
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/3435
+#EXTINF:-1 group-title="PREMIERE",EX-YU: CINESTAR PREMIERE 2
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/3436
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 1
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/144340
+#EXTINF:-1 group-title="PREMIERE",EXYU: CINESTAR PREMIERE 2
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/144341
+#EXTINF:-1 group-title="PREMIERE",EXYU: TV GORA PREMIERE 2
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/144381
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 1
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/144566
+#EXTINF:-1 group-title="PREMIERE",MKD: CINESTAR TV PREMIERE 2
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/144567
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/4838
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/4855
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/4892
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/4902
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/4903
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/4904
+#EXTINF:-1 group-title="ESPN 2",AU: ESPN 2
+http://vipketseyket.top:8080/VIP017531761494916102/b085d1d3d544/25027
+#EXTINF:-1 group-title="ESPN 2",(OFFLINE) ESPN 2
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa5OAAkypYz8JWSdBzvjLTIN/ts
+#EXTINF:-1 group-title="ESPN 2",(OFFLINE) ESPN 2 HD
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa4CD6yyl8FWTTVypWK8gZY-/ts
+#EXTINF:-1 group-title="UFC",(OFFLINE) SPORTS| UFC FIGHT PASS HD
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa5Fejg3vkfTZSq2slkjCVvV/ts
+#EXTINF:-1 group-title="UFC",(OFFLINE) UFC Fight Pass
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa73gKdKBe0qPEU_Y-xgMCVQ/ts
+#EXTINF:-1 group-title="UFC",EVE | 15 UFC FIGHT PASS 1
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa4RB0oGcnQIU1ra84UR516_/ts
+#EXTINF:-1 group-title="UFC",EVE | 16 UFC FIGHT PASS 2
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa4ILL05dcTROvPltvZVApBA/ts
+#EXTINF:-1 group-title="UFC",EVE | 17 UFC FIGHT PASS 3
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa7SXBODLjS5iW15ore5yMBy/ts
+#EXTINF:-1 group-title="UFC",EVE | 18 UFC FIGHT PASS 4
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa6iMOTLOTpijCyO7J9xg4LD/ts
+#EXTINF:-1 group-title="UFC",EVE | 19 UFC FIGHT PASS 5
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa5mzrHKM-tusC78BX7YmUmE/ts
+#EXTINF:-1 group-title="SPORTV",01/15 Soccer 03:15pm Vizela vs PaÃƒÂ§os de Ferreira = Sportv1
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa5tu7FPucwPHkt9cxZGX4GY/ts
+#EXTINF:-1 group-title="SPORTV",01/15 Soccer 07:30pm Vasco da Gama vs MaricÃƒÂ¡ = Sportv
+https://zonamovie.pro:443/play/rl7tuDW5nhR5NPaIiK0qkJb7KGENu-rDo3UPwRNtWa5WUybnErJrOS12lFytAWhz/ts
+#EXTINF:-1 group-title="COMBATE",Su ÃƒÂºltimo combate (2024)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7sycAvrtp9ysHauGcuEm3Ik8L8XQYg-LqnJl7jKyepWNN
+#EXTINF:-1 group-title="COMBATE",Su ÃƒÂºltimo combate (2024)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s5z1olaQW-oCAUOTNS17-MFs_ROr1HCr3BHjoiwZK3yV
+#EXTINF:-1 group-title="COMBATE",Braddock: Desaparecido en combate 3 (1988)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcKb6vdCKGwEr_fiUXVlo6Uj
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate 2 (1985)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcJwckyWFo3VrSxvNIq5zF5Q
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate (1984)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcKP5uevyX6OkE8LqKdN5YNu
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate 2 (1985)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcInnHnuZ2odY6q2tKMkPRln
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate (1984)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcKmMrib3XaJvgEawORwthSd
+#EXTINF:-1 group-title="COMBATE",Braddock: Desaparecido en combate 3 (1988)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcKZIvNhF5q38fjcstQMlStk
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate (1984)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcISaIm0lMwM4Vl5Zs5_qD1B
+#EXTINF:-1 group-title="COMBATE",Wolfpack Unidad de Combate (2019)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcLFnB7quj1yyEi2pXU8GLVb
+#EXTINF:-1 group-title="COMBATE",Los expedientes secretos X: Combate al futuro (1998)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcL8-wI0TaAxeWhqFq7MUP5i
+#EXTINF:-1 group-title="COMBATE",Las aventuras de los superhÃƒÂ©roes de Marvel Ã‚Â¡Combate sobre hielo! (2015)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcJMY1ij2FdYnOufnZ1HTJJs
+#EXTINF:-1 group-title="COMBATE",El reino de los simios: frentes de combate (2014)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcIN4fyO-ZwihMoFHXQZvz_q
+#EXTINF:-1 group-title="COMBATE",Alita, ÃƒÂ¡ngel de combate (1993)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s6dU1hWrsmH0h8WaXeSozcLK7gWgx2kzywi8vxJaOauW
+#EXTINF:-1 group-title="COMBATE",Mi primer gran combate (2020)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s8FLQoeHkOJz-4xsMePpFflLm6C4z45_DTmtjjpfo28O
+#EXTINF:-1 group-title="COMBATE",El gran combate (1964)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s8FLQoeHkOJz-4xsMePpFfkdvDLuVcglg3SI-uyaicwX
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate 2 (1985)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s8FLQoeHkOJz-4xsMePpFfmrAjkjuIYIXMDd78dPt2Qi
+#EXTINF:-1 group-title="COMBATE",Wolfpack Unidad de Combate (2019)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s8FLQoeHkOJz-4xsMePpFfnSk1IOVGXRzjr3oYW-5UX3
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate 2 (1985)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s8FLQoeHkOJz-4xsMePpFfkhlSSYc1NOZfLR_f720RP3
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate (1984)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s8FLQoeHkOJz-4xsMePpFfmElGC201fdlfHoc-vcQqHu
+#EXTINF:-1 group-title="COMBATE",Dragon Ball Z: El Combate Final (1994)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7s07obUYqmqvYKfVeXY0bMLU5URNSrjoik17KWa1tAgai
+#EXTINF:-1 group-title="COMBATE",Mi primer gran combate (2020)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7szen6oYSHsryePkn9lqGn3xaFmThehBGQlh3NzhbyEf5
+#EXTINF:-1 group-title="COMBATE",Mi Primer Combate (2018)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7szen6oYSHsryePkn9lqGn3yGMJJIbB-hLjRm4yyKHafE
+#EXTINF:-1 group-title="COMBATE",Mi primer gran combate (2020)
+https://zonamovie.pro:443/play/ahE-ftYpzW2GBzSMCKe7szen6oYSHsryePkn9lqGn3xpz4Y28C7JR3KByuOX9r2s
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E08
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKonkX2N10YRxKIW-HFj2lk
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E07
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKyx8-Y1I41owa0YNljmkHa
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJ_f0iV2HtyiIFtD8p4XLNJ
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLr7uruXXYp0smcDuSYTIYb
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E03
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyK3Qfy7g6gN-yF6KeVEYZSH
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E02
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJMP2aCASe2LnqTVqQWS0Za
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E01
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJ5JobnI0ZxL-KmqX7Ymgzt
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E24
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyImRdakXZU861HObfzV85l-
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E23
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLSkZPdPpGseFIkcb0b7VQG
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E22
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJR_DR4_a9sIaZV2gj5f-xO
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E21
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIgm04g7hJtRBbzls1eYCuY
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E19
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKQKIAKNU62FsD2jnBItePF
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E18
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJq72o2_2gTNYlkSjvInRqS
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E17
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKMnpvv3vdsjASHB2Pm2FLP
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E16
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKxjyC22V7_6_ZBtTIQK4GU
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E15
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIFBBRqu3mbSIzucHhmIVnE
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E14
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLC_pvWX6csXuvXJwFBCwkF
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E13
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLbCEF1O_LcjA6mhHY47XAZ
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E12
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJve_Taf1h1EC5B4Ck1SVcM
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E11
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKmkcxu_UZwooTABQiVnZXu
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E10
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJn8ojf2ZLuoBDA13QFpRag
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E09
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIMwW9TnhxNAML7byRofjXi
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E08
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIsf65BbDuVQVzSrgb2s-gF
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E07
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJZZT2_Qxug6C8MZn2lHvtD
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E06
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKD57Ue8LFyocSM6YU4aEP7
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJUAtyIThrn7LsSiEabwS02
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJroykJCyyqk1R6eAdMSDHx
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E01
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLO94mW7hW85EczGtkYEu0k
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIVqfs2ORf7IJsF_nXqLMJI
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIBDROaevLyyWgnraPj6xiY
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E03
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJAN-9JZsHLLSYr9aj_ZEPy
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E02
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIevwCjkT9fEg4T7CFwyZkA
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E01
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIBReoHMPtVnErlgIGQcqee
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E08
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLVr_mlfdrQdH0az_bPgAcL
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E07
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJg-KJFyXI7qgRl2ec-OGng
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E06
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJlrKhuTGOyChzjzLoRBgnY
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJzCx6SRosTZsX3nk4EomCB
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJPJcLHbhr830e7MCssvNYz
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E03
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyL5TlIOdJhkJvyQqvxKzGnx
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E02
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJxpGPj6kn4IwE_6pSsfzHy
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E01
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJ8glHzZKUdQWwAJdNfJlMm
+#EXTINF:-1 group-title="COMBATE",Combate S05E20
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIoWFA6FEdqXaaCUAYa-Fxr
+#EXTINF:-1 group-title="COMBATE",Combate S05E11
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJLmewPfST6ELjVYxH5nh8b
+#EXTINF:-1 group-title="COMBATE",Combate S05E10
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKjCwbB09igd6rjUv63CTos
+#EXTINF:-1 group-title="COMBATE",Combate S05E07
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKKek_qNv8ieTwD08Gh2uZe
+#EXTINF:-1 group-title="COMBATE",Combate S05E06
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKUOeRfg5Fto46lbHoenMeB
+#EXTINF:-1 group-title="COMBATE",Combate S05E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKyLDMtF_n9bhbVETlI2Yrw
+#EXTINF:-1 group-title="COMBATE",Combate S05E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJuGHjhmcnQ6CrDTS2IFWrj
+#EXTINF:-1 group-title="COMBATE",Combate S05E03
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKP2rw0k3aa0d_238DMf0Ow
+#EXTINF:-1 group-title="COMBATE",Combate S05E01
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLNsI9HMvX8X-zFHu5S9fxX
+#EXTINF:-1 group-title="COMBATE",Combate S04E30
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKZUFCdPeqLFDCLCaFu9C8Q
+#EXTINF:-1 group-title="COMBATE",Combate S04E29
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLdEuUk5C26eSYEBATWVGnj
+#EXTINF:-1 group-title="COMBATE",Combate S04E28
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJPfeHwLoiymB-nvauNIaqY
+#EXTINF:-1 group-title="COMBATE",Combate S04E27
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLSBAY9Yma2KyK_eharWOAp
+#EXTINF:-1 group-title="COMBATE",Combate S04E25
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIqG8g0v9_c3WwgNsi6ms_a
+#EXTINF:-1 group-title="COMBATE",Combate S04E06
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLTvowY8UUeLjVsFCq1ZMFc
+#EXTINF:-1 group-title="COMBATE",Combate S04E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLGWUUD6xQOT-FiDJIW8nZj
+#EXTINF:-1 group-title="COMBATE",Combate S04E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKXmY0a7Pp4AZTf2LJ8JZFn
+#EXTINF:-1 group-title="COMBATE",Combate S04E03
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJYiqJkEUjMvQR6_Ps2NdxD
+#EXTINF:-1 group-title="COMBATE",Combate S04E02
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIgbwPf6dfJpfQk1d5RFh36
+#EXTINF:-1 group-title="COMBATE",Combate S03E32
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJqd08jJU4UuO61aXcgFsTn
+#EXTINF:-1 group-title="COMBATE",Combate S03E31
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIYPv3a4vbCQojhht9uVCuA
+#EXTINF:-1 group-title="COMBATE",Combate S03E30
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLro0KeQAMKqI6s-8-1x6IU
+#EXTINF:-1 group-title="COMBATE",Combate S03E29
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKa0yIGLafQTK3e-gC8_ZqU
+#EXTINF:-1 group-title="COMBATE",Combate S03E28
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJhdpEVsFejHxCdd06FOJQW
+#EXTINF:-1 group-title="COMBATE",Combate S03E27
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLaemOuBMCsZma0fe-1jM5S
+#EXTINF:-1 group-title="COMBATE",Combate S03E24
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyILqTwZvUjC38BmUCxR5MC0
+#EXTINF:-1 group-title="COMBATE",Combate S03E23
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyI9vpELEZUnMBxlvORjZfMs
+#EXTINF:-1 group-title="COMBATE",Combate S03E22
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJoepqEnwjz5SYOBvDb0abV
+#EXTINF:-1 group-title="COMBATE",Combate S03E21
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJ-VugH_G4R3moTFAC5yzJ5
+#EXTINF:-1 group-title="COMBATE",Combate S03E20
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyK_CyY-swqvuD31V9SdqcPo
+#EXTINF:-1 group-title="COMBATE",Combate S03E17
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLOgEG2pXxTPLOmcue9yIK6
+#EXTINF:-1 group-title="COMBATE",Combate S03E16
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyL3GDnU1uz-izhJRfLndqpW
+#EXTINF:-1 group-title="COMBATE",Combate S03E15
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKBJpngeMHQBgHvp722sRWy
+#EXTINF:-1 group-title="COMBATE",Combate S03E14
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLiDANzU7w6GR1dMCTk7v_h
+#EXTINF:-1 group-title="COMBATE",Combate S03E13
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLTq2vx-lkm8qdSdo54C07d
+#EXTINF:-1 group-title="COMBATE",Combate S03E11
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIIFuHdW77F5eiShEwGb11P
+#EXTINF:-1 group-title="COMBATE",Combate S03E09
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLCLC-vOEginvoOUZVsPW05
+#EXTINF:-1 group-title="COMBATE",Combate S03E08
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKFRv9rXbWKUVJqsZYY0xGr
+#EXTINF:-1 group-title="COMBATE",Combate S03E06
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLqWRIEn4z44Q-UA7ASz75k
+#EXTINF:-1 group-title="COMBATE",Combate S03E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLO_tukU0maNLRB6pvLZ4Lf
+#EXTINF:-1 group-title="COMBATE",Combate S03E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJndzphf3A8j7tWqKHLx9Wy
+#EXTINF:-1 group-title="COMBATE",Combate S03E02
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKeQ-aBOvG1DddgCms6Jt_w
+#EXTINF:-1 group-title="COMBATE",Combate S02E32
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKxaFN09zPGTMYYqaE9HJ8x
+#EXTINF:-1 group-title="COMBATE",Combate S02E31
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIuXFn-4CyAjYSVvn-a3TAh
+#EXTINF:-1 group-title="COMBATE",Combate S02E30
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJXKu9B_gbbAbBPujpQ4ivV
+#EXTINF:-1 group-title="COMBATE",Combate S02E29
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLJxlEnvSeO-jcGPu6G9UZR
+#EXTINF:-1 group-title="COMBATE",Combate S02E28
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLtX9bnu7AE-cgafCKSYa1y
+#EXTINF:-1 group-title="COMBATE",Combate S02E27
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIW4iQNv62XQCbXIEf3unse
+#EXTINF:-1 group-title="COMBATE",Combate S02E26
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJN4brEnWoGS-c6ESg-igIH
+#EXTINF:-1 group-title="COMBATE",Combate S02E25
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKZwEI6NaalitDKbYBVJlUO
+#EXTINF:-1 group-title="COMBATE",Combate S02E22
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKvqqWuZEeYs4vSWHZfr7WJ
+#EXTINF:-1 group-title="COMBATE",Combate S02E21
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKEACpIgMiyXTUAnaxRnvDN
+#EXTINF:-1 group-title="COMBATE",Combate S02E20
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyItICgNrASfkNeEgRJhYytl
+#EXTINF:-1 group-title="COMBATE",Combate S02E19
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJGJTIgeoLNQXLCNicmsUUF
+#EXTINF:-1 group-title="COMBATE",Combate S02E18
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKJnTeOiMIQKuFcsXeEiFRD
+#EXTINF:-1 group-title="COMBATE",Combate S02E17
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIjyMXFu4Xurf0X0yKYSKHg
+#EXTINF:-1 group-title="COMBATE",Combate S02E16
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLymxGlkuuqmg0tU61gyoYe
+#EXTINF:-1 group-title="COMBATE",Combate S02E15
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyK6OR1FIk8lTaAsYaw30d8i
+#EXTINF:-1 group-title="COMBATE",Combate S02E14
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIrKB7R4l0nmddlMux6sf8H
+#EXTINF:-1 group-title="COMBATE",Combate S02E13
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJ184nxBUMXysbGHfD7l6Cw
+#EXTINF:-1 group-title="COMBATE",Combate S02E12
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIRm_LtTH5pgExF2twaxeWt
+#EXTINF:-1 group-title="COMBATE",Combate S02E11
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyK8-8BONxvJiTyduHJ-Hhrm
+#EXTINF:-1 group-title="COMBATE",Combate S02E10
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLanGGZ9_F5sS6Ygs3MtxJb
+#EXTINF:-1 group-title="COMBATE",Combate S02E09
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLZHvXVcrVCsC7A21hN4_h5
+#EXTINF:-1 group-title="COMBATE",Combate S02E08
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKUq3Zdy91U2wTjBePwm4kq
+#EXTINF:-1 group-title="COMBATE",Combate S02E07
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLM7Rd87DxkcU-PFeyNqG_U
+#EXTINF:-1 group-title="COMBATE",Combate S02E06
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyK93h_Xc-oxQrSwSkiwXk8H
+#EXTINF:-1 group-title="COMBATE",Combate S02E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJ9ydJFj3WW0_wGPC-Wvjr5
+#EXTINF:-1 group-title="COMBATE",Combate S02E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLrPEp2vif_bS8Ee9tgJglV
+#EXTINF:-1 group-title="COMBATE",Combate S02E03
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKuskOntPdjXLIhGTSSJntO
+#EXTINF:-1 group-title="COMBATE",Combate S02E02
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKzpT1e3jFx6XfU4sh5NLTO
+#EXTINF:-1 group-title="COMBATE",Combate S02E01
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLhpcVz2F_8nxAf5zmSSa9e
+#EXTINF:-1 group-title="COMBATE",Combate S01E32
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKbyw4Ecm2vN0igMKRwmW3u
+#EXTINF:-1 group-title="COMBATE",Combate S01E31
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLXxQfgzZ0hMh0odkLHzqvb
+#EXTINF:-1 group-title="COMBATE",Combate S01E30
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLEgn3bkYwMn3B03EzN8Ux4
+#EXTINF:-1 group-title="COMBATE",Combate S01E29
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyK4VhbcL1GY-PyBybwjP2G6
+#EXTINF:-1 group-title="COMBATE",Combate S01E28
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIh1iWc4ss3BcJZUYViWKEm
+#EXTINF:-1 group-title="COMBATE",Combate S01E27
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLVN9t5rczoB54IKUSy2xKM
+#EXTINF:-1 group-title="COMBATE",Combate S01E26
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLXxoCWgzcbA1SRXRJbb5Hv
+#EXTINF:-1 group-title="COMBATE",Combate S01E25
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLiV89zlA1lRyTEpsDbwrkz
+#EXTINF:-1 group-title="COMBATE",Combate S01E24
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIjBhvjqOTPX3JA5hsGexMu
+#EXTINF:-1 group-title="COMBATE",Combate S01E23
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJT6iHK3j1WSUj38PDP7h3h
+#EXTINF:-1 group-title="COMBATE",Combate S01E22
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyI6UrBUOl18TKgTdWuIuKcf
+#EXTINF:-1 group-title="COMBATE",Combate S01E21
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJoqfSIMyUbjRSuBpUjTL8H
+#EXTINF:-1 group-title="COMBATE",Combate S01E20
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJsECz-oS8Li64robLMCTRt
+#EXTINF:-1 group-title="COMBATE",Combate S01E19
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyITEfIGowELbGcgQXKC5IXz
+#EXTINF:-1 group-title="COMBATE",Combate S01E18
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKDCPa4hfdVWKw0qTxe24V7
+#EXTINF:-1 group-title="COMBATE",Combate S01E17
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLz0KnEe0WFS94H22UGJs8p
+#EXTINF:-1 group-title="COMBATE",Combate S01E16
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJKml5uLh6DQHWvfLJahgpd
+#EXTINF:-1 group-title="COMBATE",Combate S01E15
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyK7wZgryp9-hYrJrGWKNUei
+#EXTINF:-1 group-title="COMBATE",Combate S01E14
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLPR-9He1u1RLP2W1o4ivLP
+#EXTINF:-1 group-title="COMBATE",Combate S01E13
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJtlxcjzaBAd9rehOTgzluo
+#EXTINF:-1 group-title="COMBATE",Combate S01E12
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKU0cD4zvWFNqANvNNl_G2B
+#EXTINF:-1 group-title="COMBATE",Combate S01E11
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLfFB7W-u8dEUXjKDinyCCH
+#EXTINF:-1 group-title="COMBATE",Combate S01E10
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKklpQfC9LVifQkI4RXJVnQ
+#EXTINF:-1 group-title="COMBATE",Combate S01E09
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJ7FlxWzxaAICxB-C7njIX1
+#EXTINF:-1 group-title="COMBATE",Combate S01E08
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJC6R__tKBoARDpFjJF2pPy
+#EXTINF:-1 group-title="COMBATE",Combate S01E07
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyJ1zLZIQQeo87Db6fNJqVXf
+#EXTINF:-1 group-title="COMBATE",Combate S01E06
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLTtvXVAs3Enx2uZx9CwfhQ
+#EXTINF:-1 group-title="COMBATE",Combate S01E05
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKW7lJAKxdQvW72zNLhTGDr
+#EXTINF:-1 group-title="COMBATE",Combate S01E04
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLQDD8mJN3B_zqvWEZvLUvw
+#EXTINF:-1 group-title="COMBATE",Combate S01E03
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyIWWyQuYgr0AWU2Pik5untE
+#EXTINF:-1 group-title="COMBATE",Combate S01E02
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyLbzUQjIy3KuCAgNGo3-SVZ
+#EXTINF:-1 group-title="COMBATE",Combate S01E01
+https://zonamovie.pro:443/play/zPE1ce0vvXdgGoMNmU9pSkMsDLroz6HQu1Eglj7ZOyKxCCGgpzyqME6RNq7DlwQK
+#EXTINF:-1 group-title="ESPN 2",(OFFLINE) ESPN 2
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHRfb6tMCEp_ar4KI83-3ewC/ts
+#EXTINF:-1 group-title="ESPN 2",(OFFLINE) ESPN 2 HD
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHTh6Vox92iL5EP7mqxmYs7V/ts
+#EXTINF:-1 group-title="ESPN 2",(OFFLINE) ESPN 2 HD
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHRqVZWUo6oux4Vbj8HcMxCx/ts
+#EXTINF:-1 group-title="UFC",(OFFLINE) SPORTS| UFC FIGHT PASS HD
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHR5fa6iMrwgRVEPro5I8_NR/ts
+#EXTINF:-1 group-title="UFC",(OFFLINE) UFC Fight Pass
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHTn_fOOcHn-iiI0O31MTnFe/ts
+#EXTINF:-1 group-title="ESPN 2",(OFFLINE) USA| ESPN 2 HD
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHTtTS7FT0Abgmr304Ruwbs8/ts
+#EXTINF:-1 group-title="UFC",EVE | 15 UFC FIGHT PASS 1
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHRgDDIMkSwC_zTw-dVKuXRc/ts
+#EXTINF:-1 group-title="UFC",EVE | 16 UFC FIGHT PASS 2
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHRTijVsVPJ5nhhkqBHhza10/ts
+#EXTINF:-1 group-title="UFC",EVE | 17 UFC FIGHT PASS 3
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHStZq_FFerv1lcMzXP1Q_FD/ts
+#EXTINF:-1 group-title="UFC",EVE | 18 UFC FIGHT PASS 4
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHR-0tNlgIob1q_Surygiov8/ts
+#EXTINF:-1 group-title="UFC",EVE | 19 UFC FIGHT PASS 5
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHSawy0cZZQ6kcDnLhyo3kNG/ts
+#EXTINF:-1 group-title="SPORTV",01/15 Soccer 03:15pm Vizela vs PaÃƒÂ§os de Ferreira = Sportv1
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHR-KXM_FdT1ZtK6JSvLVZA8/ts
+#EXTINF:-1 group-title="SPORTV",01/15 Soccer 07:30pm Vasco da Gama vs MaricÃƒÂ¡ = Sportv
+https://zonamovie.pro:443/play/skC0fWsbKHwrjRBu7wgInCzA_UyDMtc1S0bLqbQ7DHTE5iG-4qu9-_tqhpkAjxIW/ts
+#EXTINF:-1 group-title="COMBATE",Su ÃƒÂºltimo combate (2024)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J_wbCN2zc7bBkglDIWQ3Uome1SVgt-ga27EpWFf93tWT
+#EXTINF:-1 group-title="COMBATE",Su ÃƒÂºltimo combate (2024)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J7ZoUvGovpMiN0G2u4tL5yK4KiUd50VTPmXSLPSVO6Sf
+#EXTINF:-1 group-title="COMBATE",Braddock: Desaparecido en combate 3 (1988)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As-xDUOAgBiDXEWKPtlGMGfa
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate 2 (1985)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As8SizH_1AaXoIWXTFeifjgk
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate (1984)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As99v_qY7Ziq37BYL9BcJhxo
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate 2 (1985)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As_vS1oJnZkxxGf0PHT3hkpf
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate (1984)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As8Y4Lzo3qwNeqz2vtCWEVsd
+#EXTINF:-1 group-title="COMBATE",Braddock: Desaparecido en combate 3 (1988)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As9lKLhD3ZJVzS72YxuPR8tz
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate (1984)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As-vaFZmHpdJwHBd8cCN4uj4
+#EXTINF:-1 group-title="COMBATE",Wolfpack Unidad de Combate (2019)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As_sZwyZF2xE6HMy5ROJVVbt
+#EXTINF:-1 group-title="COMBATE",Los expedientes secretos X: Combate al futuro (1998)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As_McXQ7x_HuY1cQA5yWGwiu
+#EXTINF:-1 group-title="COMBATE",Las aventuras de los superhÃƒÂ©roes de Marvel Ã‚Â¡Combate sobre hielo! (2015)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As-Tqg04y-xN6ScWFCPJ1Es9
+#EXTINF:-1 group-title="COMBATE",El reino de los simios: frentes de combate (2014)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As-T0S_FNTu2928wppnJH4ty
+#EXTINF:-1 group-title="COMBATE",Alita, ÃƒÂ¡ngel de combate (1993)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0cRmCvht-W6WzwsqCs7As9iuoggn7DkWRPJP_BJ1Wxu
+#EXTINF:-1 group-title="COMBATE",Mi primer gran combate (2020)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-JyzVdWsMPNEtHUBtHEYAwMtFoWqZnlJLYIBtgfQh1OJc
+#EXTINF:-1 group-title="COMBATE",El gran combate (1964)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-JyzVdWsMPNEtHUBtHEYAwMsTk_ZBcCLj4C50CkIltXnl
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate 2 (1985)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-JyzVdWsMPNEtHUBtHEYAwMso8akdLLeAYS0Vz7iOIv2z
+#EXTINF:-1 group-title="COMBATE",Wolfpack Unidad de Combate (2019)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-JyzVdWsMPNEtHUBtHEYAwMvbLev5V7lNO6DLCJC3BXZ_
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate 2 (1985)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-JyzVdWsMPNEtHUBtHEYAwMtyVc86-8NKjhYvC1QvICW1
+#EXTINF:-1 group-title="COMBATE",Desaparecido en combate (1984)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-JyzVdWsMPNEtHUBtHEYAwMuE7QVhJfZEXD_YqZHCcnRC
+#EXTINF:-1 group-title="COMBATE",Dragon Ball Z: El Combate Final (1994)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-J0_oxST9QRrzg3FlpLDiygBtIAgdP12QydVh7hBYL4qc
+#EXTINF:-1 group-title="COMBATE",Mi primer gran combate (2020)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-Jx4dECXE3iNNC6hhbogN0RdhPXdo0-wbbj-msND8pH_C
+#EXTINF:-1 group-title="COMBATE",Mi Primer Combate (2018)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-Jx4dECXE3iNNC6hhbogN0Rfe3CG_T8hI1bWwoWALyrPP
+#EXTINF:-1 group-title="COMBATE",Mi primer gran combate (2020)
+https://zonamovie.pro:443/play/hJHy6jGn4D2E5Axqg5w-Jx4dECXE3iNNC6hhbogN0RdjUS4Zdt7W9yZZTLP9Nz3j
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E08
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjLxfKlShSbSkQP-n4aI7Vm
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E07
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiju00FkAhcQ_-5EK7UxH1H
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjX6kf8mDtYouNMb7swqyq4
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWizXcqPgOvQOQcluS_dqsT8
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E03
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjiN7Q21eVGQzP5Q-16fIk_
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E02
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiNhJeB1NwkExb0J7s1JJ2t
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S02E01
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiXgOx9mBpog9znRIU9Hj8J
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E24
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhDKWQd37Z7lVTFUcpAaTkB
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E23
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhssxFyPEKOnGdSAHhRbFL_
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E22
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgCcmZdqvhqGISCZuxTfhPz
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E21
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgFWIJqEPFRfG5WrmtpOxB1
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E19
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiC4qTm4C6oHHGWWW-71Juf
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E18
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgfeXYzBtREcd9hQSJVMrv5
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E17
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWixHfG3J4X54dr0sH-9gsan
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E16
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjUcogc5HOHv_3d4LAYJfTF
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E15
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWik2euQm--O7ct9ZiqEf0Mv
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E14
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjndTsYWttQoRdllmdVqVUb
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E13
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjIMfppJyiebEAstMRFyA_a
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E12
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWi2qXzcw3CDWza6TGvU6Vlt
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E11
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgiBnMhkIlxKvx3WGeouN74
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E10
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhCj9KTS1ENoyVHXr7c5Zp8
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E09
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgjkBBOCOTXptlg62TZ_maI
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E08
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjShsMYz3yiva_cpKpFdSw-
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E07
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWg76IXZgfldYrQ0_QoYj6eK
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E06
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWggfEvLAC46gfn0hH-ydTdY
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhvWLgJqvJl0HBspd8ozZWv
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgUjIHNeEoqYbJmHeU08PGk
+#EXTINF:-1 group-title="COMBATE",GalÃƒÂ¡ctica: Estrella de combate S01E01
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjgSfB9l-jPa5EZZ4vLapA7
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWib3_nyWtiAJF8yqo5bjOct
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWi6xankIV028xoODzbNEFi4
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E03
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWh6ZDrZwzLpmS-lpIWetjfS
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E02
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjWN174jpkQ4hcKspcUMqJJ
+#EXTINF:-1 group-title="COMBATE",AstÃƒÂ©rix y ObÃƒÂ©lix: El combate de los jefes S01E01
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjxYckP9x0z_dkJJJHREI8L
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E08
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjV7_oMzw0FxCKALQe0K4HP
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E07
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWi2ncUOYNarAanU_n9jhvvY
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E06
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjw3uhUXMc_BEBmVLeE2QHt
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjMTgs8ijmxGnwbvjid8ZLG
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWimCqMTGPdWAGhWZlSS83HA
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E03
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWg2aQMJhvxTBhFLI_3_zufe
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E02
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjRU60n0GfwMJbsghuuI8Th
+#EXTINF:-1 group-title="COMBATE",Noche de combate: el atraco del millÃƒÂ³n de dÃƒÂ³lares S01E01
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhRyLD1yOMIldwUOVH85pHA
+#EXTINF:-1 group-title="COMBATE",Combate S05E20
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgvNLbdzzEdsw4nMhDWQ9rk
+#EXTINF:-1 group-title="COMBATE",Combate S05E11
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhqrW_2VWt8oamZz4PB7Oif
+#EXTINF:-1 group-title="COMBATE",Combate S05E10
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhhgpW7mXXpB-_FtUvi53dD
+#EXTINF:-1 group-title="COMBATE",Combate S05E07
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWg6mUv8ivFRdtwE3BzGW2I6
+#EXTINF:-1 group-title="COMBATE",Combate S05E06
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgv6xrRfUeNG_FmNtjzRvJk
+#EXTINF:-1 group-title="COMBATE",Combate S05E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgs96KyvADXsWOy8cvxwhn4
+#EXTINF:-1 group-title="COMBATE",Combate S05E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjfPQNKAE6-MBvh_IuVzupS
+#EXTINF:-1 group-title="COMBATE",Combate S05E03
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhZ9ZOQsadX3Op84K5-hj75
+#EXTINF:-1 group-title="COMBATE",Combate S05E01
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiHm03m5CS0gdGOAVOjGR3Z
+#EXTINF:-1 group-title="COMBATE",Combate S04E30
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhsuYT1M-PNP_Q05wWRZ50x
+#EXTINF:-1 group-title="COMBATE",Combate S04E29
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWj0_XVvvnkv3oa7Hr8gBaHq
+#EXTINF:-1 group-title="COMBATE",Combate S04E28
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhKEN7SczPk4BQ-m28n1CIk
+#EXTINF:-1 group-title="COMBATE",Combate S04E27
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgekCZE46d4xV4jb-uKkAjl
+#EXTINF:-1 group-title="COMBATE",Combate S04E25
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiTPL8uRSipvSvUJz_9CmQR
+#EXTINF:-1 group-title="COMBATE",Combate S04E06
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhmp-yxZungibIwHu5sRF6D
+#EXTINF:-1 group-title="COMBATE",Combate S04E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWimylfnttrTqIfuv2fgd8CH
+#EXTINF:-1 group-title="COMBATE",Combate S04E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWj076mX-Ljp4wNS5qs5Z_p0
+#EXTINF:-1 group-title="COMBATE",Combate S04E03
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgq3usbbTITz9FteA9WllOc
+#EXTINF:-1 group-title="COMBATE",Combate S04E02
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjGp3Owli-5eeT_I7roSN97
+#EXTINF:-1 group-title="COMBATE",Combate S03E32
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjnpmQWeZMbT3iWzTESMX_M
+#EXTINF:-1 group-title="COMBATE",Combate S03E31
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhuloBYCGGi4Lfz1M793x5G
+#EXTINF:-1 group-title="COMBATE",Combate S03E30
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgiZrohaJoyrKzcgFt0R87E
+#EXTINF:-1 group-title="COMBATE",Combate S03E29
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjWGZ2XkufyjC18KF5u3R4U
+#EXTINF:-1 group-title="COMBATE",Combate S03E28
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgCsik0_sgZlQnulSkhcuTl
+#EXTINF:-1 group-title="COMBATE",Combate S03E27
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWj0LuFBbKh901DJRL74x66v
+#EXTINF:-1 group-title="COMBATE",Combate S03E24
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhtZxHK7CE3CAsPJ5x7Xbfn
+#EXTINF:-1 group-title="COMBATE",Combate S03E23
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWj8c4kD95IxDQ8c_RzVFDzY
+#EXTINF:-1 group-title="COMBATE",Combate S03E22
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhE-9vi3y2uLH19BeAC9RQz
+#EXTINF:-1 group-title="COMBATE",Combate S03E21
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjI2uYX1kDFs9q7RzhGCLRS
+#EXTINF:-1 group-title="COMBATE",Combate S03E20
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgUBNW6prRDun9Yxp_xNN3T
+#EXTINF:-1 group-title="COMBATE",Combate S03E17
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiT6B23UWvRabxVkTM17x3f
+#EXTINF:-1 group-title="COMBATE",Combate S03E16
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiNy3Iy0K78IEJ56MadtPUP
+#EXTINF:-1 group-title="COMBATE",Combate S03E15
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhvNSxTlmIVJKjyuOYqpn12
+#EXTINF:-1 group-title="COMBATE",Combate S03E14
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhv_lQTF4vK_kfZmnw68s0E
+#EXTINF:-1 group-title="COMBATE",Combate S03E13
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiLlqkWMRdQKIcc1xhFdukI
+#EXTINF:-1 group-title="COMBATE",Combate S03E11
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWj1f1WBGEmdkx2_eWGgvQzm
+#EXTINF:-1 group-title="COMBATE",Combate S03E09
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiwY6XOzlP1Q8EzLf1KxTBo
+#EXTINF:-1 group-title="COMBATE",Combate S03E08
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhXoR_KsFsXd39p8ohDmzxL
+#EXTINF:-1 group-title="COMBATE",Combate S03E06
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgh7T-Uehl6XWtl21kE5KUP
+#EXTINF:-1 group-title="COMBATE",Combate S03E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhYZNm2yhPVTGoLm6Fahfx-
+#EXTINF:-1 group-title="COMBATE",Combate S03E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhohBMGTsqzqDA4m3V_KfMj
+#EXTINF:-1 group-title="COMBATE",Combate S03E02
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgmeGCcf-lQcf8AVaIGZY3O
+#EXTINF:-1 group-title="COMBATE",Combate S02E32
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgRzJ-lkx3njekRqbMHCt7x
+#EXTINF:-1 group-title="COMBATE",Combate S02E31
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjIAbz2jAlY2cNNIsiaub7A
+#EXTINF:-1 group-title="COMBATE",Combate S02E30
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiNEA81FslGA6pzpXk1NWrN
+#EXTINF:-1 group-title="COMBATE",Combate S02E29
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgqoit7KBfXLHW9Kf8Z1_C0
+#EXTINF:-1 group-title="COMBATE",Combate S02E28
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgI9BnmORMbuz_hVLuylzmc
+#EXTINF:-1 group-title="COMBATE",Combate S02E27
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWig7xrhZh9Yz6wZwzRzcYwj
+#EXTINF:-1 group-title="COMBATE",Combate S02E26
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgG4ZYpIKTojOY_Jh0AYQfo
+#EXTINF:-1 group-title="COMBATE",Combate S02E25
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhPbZfuOBDhLiO34S6Ct-fv
+#EXTINF:-1 group-title="COMBATE",Combate S02E22
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjXv01F_DXU1z_BGglsIR6w
+#EXTINF:-1 group-title="COMBATE",Combate S02E21
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgwzMmoJXdgfManysqShin-
+#EXTINF:-1 group-title="COMBATE",Combate S02E20
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjQsgek4WePJp7gopevLtO2
+#EXTINF:-1 group-title="COMBATE",Combate S02E19
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgTps4l3L5ef0kuAV4jhCdV
+#EXTINF:-1 group-title="COMBATE",Combate S02E18
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgOSqbC8uYaVjNPLtrr16fS
+#EXTINF:-1 group-title="COMBATE",Combate S02E17
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhJ36pZO9ZJLoHOMjjbYd5U
+#EXTINF:-1 group-title="COMBATE",Combate S02E16
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhNzmq0jx-32ojD0gapO7FE
+#EXTINF:-1 group-title="COMBATE",Combate S02E15
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjAZ-PocI396frSXhBzsVoR
+#EXTINF:-1 group-title="COMBATE",Combate S02E14
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjzybsA5BLDpHkgmshthvqz
+#EXTINF:-1 group-title="COMBATE",Combate S02E13
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjxshihuryoxXWwIDyUXYyw
+#EXTINF:-1 group-title="COMBATE",Combate S02E12
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiHEGGRXBM1HmAl1SzrYXZY
+#EXTINF:-1 group-title="COMBATE",Combate S02E11
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiX443Ay8b3mkPTRr0It2OO
+#EXTINF:-1 group-title="COMBATE",Combate S02E10
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhWMo8Y-sUeM4KzAB3QFLYZ
+#EXTINF:-1 group-title="COMBATE",Combate S02E09
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjlCvUvlQP-v5_TMXiDYgEd
+#EXTINF:-1 group-title="COMBATE",Combate S02E08
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWigqcoRrV4xzxk6bqGSF86G
+#EXTINF:-1 group-title="COMBATE",Combate S02E07
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjWBJ7KOLfut5YgPhwCNgRp
+#EXTINF:-1 group-title="COMBATE",Combate S02E06
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjyFS8AZAbBZ69VDGjGviNJ
+#EXTINF:-1 group-title="COMBATE",Combate S02E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhDIh2HVd4geNAw_HekDoiE
+#EXTINF:-1 group-title="COMBATE",Combate S02E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgRWD95FZRHX6zYoCZnqx67
+#EXTINF:-1 group-title="COMBATE",Combate S02E03
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhcN2C82mjDiVlVnOD1Q1_C
+#EXTINF:-1 group-title="COMBATE",Combate S02E02
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWj5jw4mxmFCAg-n4w35lEDc
+#EXTINF:-1 group-title="COMBATE",Combate S02E01
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjHk8nmWHNJz4EsJ3igUQya
+#EXTINF:-1 group-title="COMBATE",Combate S01E32
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhVoQmGdxFnLV2iilPR6IEI
+#EXTINF:-1 group-title="COMBATE",Combate S01E31
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWj5QRLqaJTDwk0pYjvdNjmY
+#EXTINF:-1 group-title="COMBATE",Combate S01E30
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjYVPVCnL5tbJxq86-fj3yZ
+#EXTINF:-1 group-title="COMBATE",Combate S01E29
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWims7y5f5_3A3x4bbZ2K0Cp
+#EXTINF:-1 group-title="COMBATE",Combate S01E28
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWg0_fee7QkavPemSRTTx0PX
+#EXTINF:-1 group-title="COMBATE",Combate S01E27
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgKwRYlbbRGp9_oO86cCXuQ
+#EXTINF:-1 group-title="COMBATE",Combate S01E26
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgt9mQ1TjxO6GlCiCmzGZxQ
+#EXTINF:-1 group-title="COMBATE",Combate S01E25
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgigY5kQDH-rSY867nvOoEJ
+#EXTINF:-1 group-title="COMBATE",Combate S01E24
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWh05x3rhC-W08wK9mdb4uLU
+#EXTINF:-1 group-title="COMBATE",Combate S01E23
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjWSJYz5tTytoPf_1IhrlOb
+#EXTINF:-1 group-title="COMBATE",Combate S01E21
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWh6z5TmlTgy_5JRQ0xdFE3s
+#EXTINF:-1 group-title="COMBATE",Combate S01E20
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhUjSS6wnx1B2_rabXKV55u
+#EXTINF:-1 group-title="COMBATE",Combate S01E19
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiksqYWfC2wwdPAg3fQaICC
+#EXTINF:-1 group-title="COMBATE",Combate S01E18
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWg58w_Y__HttHn2PpT4pOQt
+#EXTINF:-1 group-title="COMBATE",Combate S01E17
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhD6nDHbvW68a8-H9q0j6q1
+#EXTINF:-1 group-title="COMBATE",Combate S01E15
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWg-A3ehN01GgMigjrYumy8M
+#EXTINF:-1 group-title="COMBATE",Combate S01E14
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjXhO7_4MtDE7b4bIJVAKin
+#EXTINF:-1 group-title="COMBATE",Combate S01E13
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhOVXYPW8ToHS75PkOQRq83
+#EXTINF:-1 group-title="COMBATE",Combate S01E12
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWiR6P-xTJtTW69oZ_2WWuPt
+#EXTINF:-1 group-title="COMBATE",Combate S01E11
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWis0sxgkJWaZhw9D6jrjx2E
+#EXTINF:-1 group-title="COMBATE",Combate S01E10
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWj5_JWKoy8A7WKPMO6xPkxG
+#EXTINF:-1 group-title="COMBATE",Combate S01E07
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWhiFIzkU17kQGJzMIiSJ4uI
+#EXTINF:-1 group-title="COMBATE",Combate S01E06
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWizIhTdxfOTo08f7lPowfw1
+#EXTINF:-1 group-title="COMBATE",Combate S01E05
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWjDnGbWLkkSjQRbQYavfT_Q
+#EXTINF:-1 group-title="COMBATE",Combate S01E04
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWimknVzbPN6BrHPEx-GUo7S
+#EXTINF:-1 group-title="COMBATE",Combate S01E03
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWglqv7md4cKCQu6Gv__Ti27
+#EXTINF:-1 group-title="COMBATE",Combate S01E02
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgoQMg2H46I1QgKwshUuXKt
+#EXTINF:-1 group-title="COMBATE",Combate S01E01
+https://zonamovie.pro:443/play/IMGNZTlzaN6095LfDklk49Rlf1OH0q4xEa0Xnvl0SWgWQW5QpkS0aExs6gY14O39
+#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere 2 (TV)(720)
+http://tv.zapping.life:8080/lusimageno/YZatAc5pLd/9665
+#EXTINF:-1 group-title="UFC",DEPORTES - UFC Fight PASS (i)(720)
+http://tv.zapping.life:8080/lusimageno/YZatAc5pLd/9611
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://supersonictv.live:8080/Sonya123/Sonya123/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://supersonictv.live:8080/Sonya123/Sonya123/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://supersonictv.live:8080/Sonya123/Sonya123/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://supersonictv.live:8080/Sonya123/Sonya123/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://supersonictv.live:8080/Sonya123/Sonya123/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://supersonictv.live:8080/Sonya123/Sonya123/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://supersonictv.live:8080/Sonya123/Sonya123/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://supersonictv.live:8080/Sonya123/Sonya123/85165
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil 4K
+http://supersonictv.live:8080/Sonya123/Sonya123/85178
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://supersonictv.live:8080/Sonya123/Sonya123/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://supersonictv.live:8080/Sonya123/Sonya123/86277
