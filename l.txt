@@ -1,1 +1,55 @@
-{"atualizado em":"2026-05-06 14:52:11"}
+#EXTM3U
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (TV)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9538
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 5 (M)(1080)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9539
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 5 (Z)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/179513
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 6 (M)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/179518
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 7 (M)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9543
+#EXTINF:-1 group-title="OUTROS",DEPORTES - ESPN 7 (Z)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9574
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 7 CH (Z)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/179519
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn Deportes (Z)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/179504
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn U (Z)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/179512
+#EXTINF:-1 group-title="ESPN 2",BRA-Espn 2 (M)(720)
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180758
+#EXTINF:-1 group-title="ESPN 4",BRA-Espn 4
+http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180760
+#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (TV)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/9538
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 5 (M)(1080)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/9539
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 5 (Z)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/179513
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 6 (M)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/179518
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 7 (M)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/9543
+#EXTINF:-1 group-title="OUTROS",DEPORTES - ESPN 7 (Z)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/9574
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn 7 CH (Z)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/179519
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn Deportes (Z)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/179504
+#EXTINF:-1 group-title="OUTROS",DEPORTES - Espn U (Z)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/179512
+#EXTINF:-1 group-title="ESPN 2",BRA-Espn 2 (M)(720)
+http://live.zapping.life:8080/japemty/kK12BMg5y4/180758
+#EXTINF:-1 group-title="ESPN 4",BRA-Espn 4
+http://live.zapping.life:8080/japemty/kK12BMg5y4/180760
+#EXTINF:-1 group-title="OUTROS",ESPNplus 3 HD VIP SPORTS
+http://tv.123tv.to:8080/yvSZuHjGRN/ys94jaTGkK/112138
+#EXTINF:-1 group-title="OUTROS",ESPNplus 6 HD VIP SPORTS
+http://tv.123tv.to:8080/yvSZuHjGRN/ys94jaTGkK/112135
+#EXTINF:-1 group-title="OUTROS",ESPNplus 27 HD VIP SPORTS
+http://tv.123tv.to:8080/yvSZuHjGRN/ys94jaTGkK/112114
+#EXTINF:-1 group-title="OUTROS",ESPNplus 34 HD VIP SPORTS
+http://tv.123tv.to:8080/yvSZuHjGRN/ys94jaTGkK/112107
+#EXTINF:-1 group-title="OUTROS",ESPN U VIP Sports
+http://tv.123tv.to:8080/yvSZuHjGRN/ys94jaTGkK/17046
