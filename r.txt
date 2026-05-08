@@ -1,228 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="ESPN 3",BR: ESPN 3 HD
-http://ip96.uk:8080//live/Ghosia104/pathan104/304297.ts
-#EXTINF:-1 group-title="ESPN 3",ESPN 3
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO3KAeXEKYwfgrwYDijPuNQ3ASzdZb-osVtbqS2xV_ZOe
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWE2YtnyEqwnT_zQuxgosebi
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWEcltQBXpRUfnG3FibYhFAs
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2 HD
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWEiADa8Kq6mvwh3p7i5cHhY
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3 FHD
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWFVxkvZ4BMYfZlmMXVPCX4r
-#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 1
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWHRKhFGKSm62MHsMdV-mSJv
-#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 2
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWGywyT1vGw8JlveranCjkdH
-#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 3
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWGJva0M5obdeFgzpcVHUKiB
-#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 4
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWFY0z3p6NxKe5mE6qnVPFGh
-#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 5
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWG_zPXLHHTjuuJAqllBHgGW
-#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 6
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWFej_moxg5qzUAv4Bonj-8B
-#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL 7
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7JpVRuzsBQz9OO4Ii3DuWGhLSZq4VYtYu0A6B7QsX0v
-#EXTINF:-1 group-title="COMBATE",BR | COMBATE
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO8btvEhAH26_TwJ5SMweXAUGYEWGlO91hjSAXvtXqPRc
-#EXTINF:-1 group-title="ESPN 2",ESPN 2
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO0gi0N4JbaMvh4EP9ujZVYHv2CtLuKRn8VNvgZg8Lzzu
-#EXTINF:-1 group-title="ESPN 3",SAT | ESPN 3
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7U4ln5JwSBJ6JNHi_psQTmMgJndoNGlvLNBhSh3pTVj
-#EXTINF:-1 group-title="ESPN 2",SAT | ESPN 2
-https://fenixplay.info:8443/play/vfvkWez8SzOSkERSAfBZO7U4ln5JwSBJ6JNHi_psQTnObm4GutrACsBERfPPgLv6
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
-http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4892
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4903
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://revipeofercmv.top:8080/VIP0174169160425811/cd29f5f53745/4904
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
-http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4892
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4903
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://revipeofercmv.top:8080/VIP016311753288247522/db98a9721b30/4904
-#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere 2 (TV)(720)
-http://tv.diablotv.net:8080/SABORaPERU22/d597d85732a2/9665
-#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (TV)(720)
-http://tv.diablotv.net:8080/SABORaPERU22/d597d85732a2/9538
-#EXTINF:-1 group-title="UFC",DEPORTES - UFC Fight PASS (i)(720)
-http://tv.diablotv.net:8080/SABORaPERU22/d597d85732a2/9611
-#EXTINF:-1 group-title="PREMIERE",Universal Premiere SD
-http://planettvweb.com:8091/FernDelgado867/fernan9678/16289
-#EXTINF:-1 group-title="UFC",iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAABI1BMVEX///+6FBW6FBf///23FRf7//+1AACuAAC7FBbmtbf+6uj///y6FBOyAAC4AAD//f/grajDWFjWm5y2MjH/8e26DQ314d2zNTrBQkC7DwTAEhnevbWqAADqvL79/fPntrfMb3OvFBjUkI22Hyu0Ixv/+vTAAADDZWewAAn57OaiAADu0srz3OHOkpP97+/ZsKnszMfguLbfq7DCeHTAa2jAY2HMg4HHYGOvICDUkomtBSS2OkLx0c/nxbuxQTvGgY2tK0GwQka+XlXcpJLcm6j039TId2388OSvOCu+VFrtxMzWiIvBMjO4SESwLzDcu764JTjEX2zqy9fOmpSnABrOiIDWVVP1xLTFSD3Ol53qp6XIeIDBUFT0urjRipLOcmy3VmPw7poDAAANOUlEQVR4nO2bCVvbOBqA5UtyY8lO0ig0GTcQmEC40kALhRI624O2QJNOj9ndGZh2//+vWMlOfMrBAWaP5/nemWFKHFvy60/XZxUhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA/ysMI/nLf60a/0U8y0r+mndg5Zh7sBxzy7ihAoZ4agby7uXu4+e/c1Gt7+7u1pe3BzkLcwPjtlHj/K+Em+EImcbmk40XhDGGXZcRRpYOh73Ut/YeZNgfRBdAzezBUiw/2EwUYKHeXlDIcoSXqOLmg2wN9lefPjs4eHpYH26iO+MgZ/h8C3NbF2gSSjknR8cVFMWj8YLhNGw3OmY99rNHS0H2ErXw0B7BDLMYvxI76NTWxdNRQ/yTw5Fxxy7s9KXf0k3J1IG0QFtu/5foWXtr1EyjbTViB8y8DeynRCUs729acN0Q8SfSiA+ekqhqWWybcpe9+qlzh76h8trndhADum5HBVGJS94YYXeRd2Diq3t1gN4yTZ8VLNC0hAM04WaRg7C6nC1d3FpB1ce6GQoQpAsSN1obBJ2mIR3oScRzOks60Bcn5WDQpSls6scOqoSGj7wYre+vOtmxpAyWc+hrpt2eKdDstN4u5S9GjtKBruNnjjdzoN/Ngaj7Km5H8Rc4sGcODMv7yG90YFPKDhxv8fbQOxBBIJqgHkdgFh70XI5wkLkDUyenURzcwkA6Dpos18xnDjzhR7fzNcuhr//o5KYVN2A4NanATLXCbFV0k/wUxkEQKgkHJn/kJBykDpYCJxy8c6PuMOsAvdfo3M4gOkUj9QWDwOg8c2097IuL40Ac80+ncZB2oNNwcLsPByNfL3ZwibVSDoQEtrOghEMmWp02Pw4knDXRmjiUvU3KPzj35OAc08zgFztokn4+DoLem2b6L9vErxeZKHjolHBq67F/Wkjro7eW0yPqTNk+ukN/MHPgoQvR74efKRysYMWz0U2+3uIZN7Zuk9Eik6WGyWXvG9w7F7TSs69WS37IQwnu5UctW4/g1LXBHcaFyIHzis8+yzvY9hXRKaLeF6MzawfxFzvQ8XdUule00Mq6mF/Jual5NHk5rr0+2FiJ2Nh4fn49XpocmVjOgqnWt01VQ7HdY7mgyzngymGsbZtKB+gBsYsd1HC+XGr368J+b7jBwocROWifLLAQG5E2OXmyN2puNnpGwWmGN6g0R5922zIIlA5ssimW3TkHrnJ94GKudND7NT475+BUhEGuaMo/T2t47Cc6BWmSNdT3ouIz744dGQ9yJe5lA8hwHBTPvy9wgQPNxL+Ia2Qc0P4fVRVPqs+4ykEdz3HwgQd9dsaBuyqzB7LS1+s8aMphw7XbuPzI0NzS2BvkOI4hmc4smvXP19fnV8s9x7CcIDgs6UhO1wsHTjEa5RxsFZVaxzkHhpwl6wUOPDFLDjvrbLEfneABiktOllJMvpR2cIlNtjxzECZtmjWfib6Wr2PzTQ8ZUwdBRuek0IHmHigceIYKpQM5S9aKHCBvwpWDto1rlVnEBgmlsDUbQfyWxFmzTTKMHYhrvPV5tIBmS2dW0sGBW+hAI9to7y4OKn059ShwUMdUU05cqNv9Xgnv10NylTBruOXnytvENP1ta+ZAfLIrZ2ryXylCX++eJb/+rNiBzsc5B75CulPgwFlxtUIHjS7V1A7EGomR8e5omuEIH5W1kIOvYqFAmtM4ED9QldFk9fTWpIfiRdi7YgeiLheZORLd2mnmKHLQDJbFSgcDtOsGz1zpQGjnzO+e14eN0EHQe6Hyi6bnooMmzWkcOIbzvi/HlVlyQ/yR48OEg99wcVvQ3JM/WfqYzhhJw755BQ5Uw//MQYXR7HQ4DZU5JOKf15s92RqU+ehCJnbXJJWoP0C/uXo79SzFIDOIvz7XAWd/76c/EWdL4slRm38bIKWD4VbBZYWDXtBM5iOvLj08vNzuhKNYOQeWNSAikvqbkYPOFm2nHYh5zmr0fdF1z3EgjmSWNHbu2fFuTxkHxitW5KDd/QfjZRzI6bLM+42HZSMAyQl+0w8dGKEDOSfPLfpEX+eVcqCqWN5BR+lgv2/Gl02fpZv/TOcQuaoCUayZJmWvvpRuCYY1CuPAmDnYJ/mFLz2Kh5sFHeTbcIEDb60d36eMxMQpJuWmGV/Idmu+WOfOcWCLWHhbPg4uxNCYdPA7UzjYGhi3dZBD7eC07sa3ba99nFcC/+DsEWUoJL/kXpXMqyoc4HxboP2/3EH1KMqcUIr/GLfmFMFOkVF5TuSroOKRQgzU78otGw2xaEw72EtOV2cO1m7fFso50D7SKPypu9SZtIov4NbkjNgZvmYuVfQ3EZQ8LumgmekPzkhOgc435vSJOr0pLEs4EMOxTFJOHQzRw2IHcmlmyAmLcXb8gbi8+IHQo06ZTJK4WDd0MB0bEfpIMwZM3a0a0Rwp54A/GgfvJ+/BQVBxmx8YxQ70rnsVvh+XNTJGv1/33fWicZPtlZwvL9nCQdOYzZVRFWcdaKQRp1ZWs3NlPh4y2y6MSZ5lXTU/mLYIgShtx3EKHdh0azP9NnFw8e5IhoPiy3ijpIMV19Tj9ULH6j1MZTdMnbpvEjsTDvMOUC3ISiurrJ0sZTlRrBtjB5r7DnU6hQ4oXkVGfGPBskCs+45fMqGhnf3yUcl3TdXQQWeaQxE9QjddM7aR3FqRWzPxR2jkF3XRXLFuRIo1U+yA9xtirV7ogB/1FFcUFWzuTkguvSLuqxRNloiDQIK4pbhPaOPzXjIZkVs7CwdoBevtAgdB/mC2Jk0kNtQObNuty16/yAFly4pb8IK9Gb1LknkQ1C85Z3bGms0ukg7Q2UMm2pdMzbYxO/RSm7Susx2QdNDoFsSBzB8EL6tnP4xZrVUOxMjA1zyZslE7sE0+HnQfZvj5a5A0MizjEGdLL+nAqGIbP5itF0ILnepLX75ZwP67bceI8lOSE4UDw/jKusqBoSif6Mm0hUoBWQ5UFcSB2R95fva1j7uCwgyY8yfJfJ+U3Ihg9b7J3KxM76CpA9HTGM0Hu7v1x5uGzNKFT1H+Y3lH2UYnHDiyI1VWmnaLit1XOdBwzZnjgLqiayLBSlyP31WI0JmmEavZOCClM8vfcXcyy5fdNKfYza3jZVtAaC/7wnxai/Z5TcXr2qP8dFTEgT/yih3ouv8eoXOePQmvirmQGCzeZ58PZYMbbmeKONcXQXbw9LK6Nxrt7FQagl6I/L/4bVBp7nz5VK0frkz8riIOJNfcVPQINm2p9k65WMxrFApEWHtekQNbvj0z0PF6O4NOnogY7v20pmimpVNJX8Wajcv9XzLVhTEj9OcIsRYXHzPxsaw7b4tDNFuQwBn2VQ4WQrfJ+2nvo4wDs/vesqwznH+j2X/448cRyy1k3F+QVfTiLBcJYx5vj5IvA+V/0St4+YPaYU6sTfGfmaY/dYBWSqR65kPd72iOA4r3RTGoc82zeS6tzXG4cEg6oBq+KO0AoYrfzmwUSxWhRQkKyq7QmsqBgTa37upAzH8sVOyAP+ogmRIYslyPoE23p6TigLpjx3BKO0CPmVa0bU44iDc74VeeoXQgW1RBWrgkVGdPgp1dagdUk3ue5OCFNtYV3el0S2nyDPYYpYb1m3hLND0XAFPL8SjEJwOkcBAW0+vyu/QInF+HPZihnidieTi4p8Ek1xoiCREmdz8jbwEHnoUufVtpIOGA8rWm3KOpdCDKesLS+4gWg/qjqD4KB5Q1p+tFCzVf3OiA0vWlAVosDiz0dYsHEnKbicJ9j3Iq/6tcgqgchI3YWMq8XFgIsdAtdmBr7tXsRaJnWc0jN7/jKWWAug8bs3otIOETcTW9wIHoLSipBUu2YgdomFu5lUWcxxJrvHwc8BeDZF2NczfbMaYctNi/vNmst7wD4bh5zeRbCkVbkPuUyGr4HOY4QJ/d3F6lshLIcSeubc6BiY9ReuPpgy7jdoED6pr14O90LOzAQd7bLqa5pmaavNVi1zvImOtAHtvZum26lf/cQ/GGgZwDKg5nbqbx9lcXyymLGT8rTSzhaUusdSvoFlt1g5It1Ds2Cdczo6PmsutTY7aA7q2l8lY06QBdsdtJoLiKEtsJhYPUnI+yZSv/PJ3HT7sMyxzWzALlGPdrdXWapTyD/bGPsZwt6MGUgTPy7ce2YaHZbfZeEN9Pvkg+STgYdMnteJkKW2dCUkWQcf6pBhunettfN17KGb6c0Ptk7fxyryKu0rmjBNQ5q14thddlrHu9Owy3pIdVNJxOo5JmIPeuhPW3jMGgsVm5Bb0gfRE5eF9JX2Xukx1URl++fBLLvUHQmGTa/S73H2WtG5s7I7GKrAT3nehhlb1M9OEiHVAaK5jPzK4n50qpBj1/M8HsmOXc399EtObkEYwcN36hLOkKpJmjID6v/ALpjvxV5dzHdf9TDgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO6DfwMumkwMSHD/pAAAAABJRU5ErkJggg==" group-title="BRASIL",GLOBO NEWS
-http://planettvweb.com:8091/FernDelgado867/fernan9678/12428
-#EXTINF:-1 group-title="COMBATE",COMBATE
-http://planettvweb.com:8091/FernDelgado867/fernan9678/12436
-#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES 24 hr
-http://planettvweb.com:8091/FernDelgado867/fernan9678/12494
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 3
-http://planettvweb.com:8091/FernDelgado867/fernan9678/12490
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 4
-http://planettvweb.com:8091/FernDelgado867/fernan9678/12491
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 5
-http://planettvweb.com:8091/FernDelgado867/fernan9678/12492
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 7
-http://planettvweb.com:8091/FernDelgado867/fernan9678/14348
-#EXTINF:-1 group-title="ESPN 2",ESPN 2
-http://planettvweb.com:8091/FernDelgado867/fernan9678/16881
-#EXTINF:-1 group-title="ESPN 3",Espn 3
-http://planettvweb.com:8091/FernDelgado867/fernan9678/34856
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 SUR_
-http://planettvweb.com:8091/FernDelgado867/fernan9678/20325
-#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD
-http://planettvweb.com:8091/FernDelgado867/fernan9678/21457
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 SD 
-http://planettvweb.com:8091/FernDelgado867/fernan9678/11850
-#EXTINF:-1 group-title="ESPN 3",ESPN 3  SD
-http://planettvweb.com:8091/FernDelgado867/fernan9678/11849
-#EXTINF:-1 group-title="ESPN 4",Espn 4 SD
-http://planettvweb.com:8091/FernDelgado867/fernan9678/21456
-#EXTINF:-1 group-title="PREMIERE",Golden Premiere 2
-http://planettvweb.com:8091/FernDelgado867/fernan9678/88283
-#EXTINF:-1 group-title="PREMIERE",Golden Premiere
-http://planettvweb.com:8091/FernDelgado867/fernan9678/88284
-#EXTINF:-1 group-title="UFC",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" group-title="ESPAÃƒÆ’Ã¢â‚¬ËœA",MOVISTAR ACCION
-http://planettvweb.com:8091/FernDelgado867/fernan9678/12112
-#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
-http://canal-pro.xyz:8080/992114651tv/y492g1/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
-http://canal-pro.xyz:8080/992114651tv/y492g1/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 3 BR (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 4 BR (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 7 BR (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/567
-#EXTINF:-1 group-title="UFC",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
-http://canal-pro.xyz:8080/992114651tv/y492g1/580
-#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/54416
-#EXTINF:-1 group-title="PREMIERE",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UNIVERSAL PREMIERE (HD)
-http://canal-pro.xyz:8080/992114651tv/y492g1/54463
-#EXTINF:-1 group-title="PREMIERE",Cine Premiere
-https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
-#EXTINF:-1 group-title="PREMIERE",Cine Premiere
-https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
-#EXTINF:-1 group-title="PREMIERE",Cine Premiere
-https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
-#EXTINF:-1 group-title="PREMIERE",Cine Premiere
-https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
-#EXTINF:-1 group-title="PREMIERE",Cine Premiere
-https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
-#EXTINF:-1 group-title="ESPN 3",DEPORTES - Espn 3 CH (Z)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/179495
-#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (TV)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9538
-#EXTINF:-1 group-title="UFC",DEPORTES - UFC (Z)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9610
-#EXTINF:-1 group-title="UFC",DEPORTES - UFC Fight PASS (i)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9611
-#EXTINF:-1 group-title="PREMIERE",CINE - Universal Premiere Norte (Z)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9768
-#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere (M)(1080) [Dual Audio]
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9664
-#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere 2 (TV)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/9665
-#EXTINF:-1 group-title="ESPN 2",BRA-Espn 2 (M)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180758
-#EXTINF:-1 group-title="ESPN 4",BRA-Espn 4
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180760
-#EXTINF:-1 group-title="PREMIERE",BRA-Premiere 4 (M)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180797
-#EXTINF:-1 group-title="PREMIERE",BRA-Premiere CLUBE (M)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180801
-#EXTINF:-1 group-title="SPORTV 2",BRA-Sportv 2 (M)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180808
-#EXTINF:-1 group-title="SPORTV 3",BRA-Sportv 3 (M)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180809
-#EXTINF:-1 group-title="SPORTV",BRA-Sportv (M)(720)
-http://live.zapping.life:8080/johnlugolopez/AfeXXNXYDX/180810
-#EXTINF:-1 group-title="ESPN 3",DEPORTES - Espn 3 CH (Z)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/179495
-#EXTINF:-1 group-title="ESPN 4",DEPORTES - Espn 4 (TV)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/9538
-#EXTINF:-1 group-title="UFC",DEPORTES - UFC (Z)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/9610
-#EXTINF:-1 group-title="UFC",DEPORTES - UFC Fight PASS (i)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/9611
-#EXTINF:-1 group-title="PREMIERE",CINE - Universal Premiere Norte (Z)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/9768
-#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere (M)(1080) [Dual Audio]
-http://live.zapping.life:8080/japemty/kK12BMg5y4/9664
-#EXTINF:-1 group-title="PREMIERE",CINE - Golden Premiere 2 (TV)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/9665
-#EXTINF:-1 group-title="ESPN 2",BRA-Espn 2 (M)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/180758
-#EXTINF:-1 group-title="ESPN 4",BRA-Espn 4
-http://live.zapping.life:8080/japemty/kK12BMg5y4/180760
-#EXTINF:-1 group-title="PREMIERE",BRA-Premiere 4 (M)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/180797
-#EXTINF:-1 group-title="PREMIERE",BRA-Premiere CLUBE (M)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/180801
-#EXTINF:-1 group-title="SPORTV 2",BRA-Sportv 2 (M)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/180808
-#EXTINF:-1 group-title="SPORTV 3",BRA-Sportv 3 (M)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/180809
-#EXTINF:-1 group-title="SPORTV",BRA-Sportv (M)(720)
-http://live.zapping.life:8080/japemty/kK12BMg5y4/180810
-#EXTINF:-1 group-title="PREMIERE",S PREMIEREN +24 HD HEVC DE
-http://porn-hub.streamtv.to:8080/Wolfgang/5he6ERunyN/94526
-#EXTINF:-1 group-title="PREMIERE",Sky PREMIEREN HD HEVC DE
-http://porn-hub.streamtv.to:8080/Wolfgang/5he6ERunyN/94522
-#EXTINF:-1 group-title="PREMIERE",Sky Cinema Premiere FHD VIP UK
-http://porn-hub.streamtv.to:8080/Wolfgang/5he6ERunyN/10841
-#EXTINF:-1 group-title="PREMIERE",S Cinema Premiere HD VIP UK
-http://porn-hub.streamtv.to:8080/Wolfgang/5he6ERunyN/10780
-#EXTINF:-1 group-title="PREMIERE",Sky Cinema Premiere FHD Script UK
-http://porn-hub.streamtv.to:8080/Wolfgang/5he6ERunyN/112750
-#EXTINF:-1 group-title="UFC",Live Events UFC 2 VIP Sports
-http://porn-hub.streamtv.to:8080/Wolfgang/5he6ERunyN/17085
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 8 4K UHD
-http://porn-hub.streamtv.to:8080/Wolfgang/5he6ERunyN/97282
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 9 4K UHD
-http://porn-hub.streamtv.to:8080/Wolfgang/5he6ERunyN/97281
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD [H]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/276019.ts
 #EXTINF:-1 group-title="ESPN 2",ESPN 2 HD [H]
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/276188.ts
-#EXTINF:-1 group-title="PREMIERE",RUS| VIJU+ PREMIERE FHD [B]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/285228.ts
-#EXTINF:-1 group-title="PREMIERE",Tr: beIN Movies Premiere
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/293280.ts
 #EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/262626.ts
+#EXTINF:-1 group-title="PREMIERE",Premiere 1 UHD
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292664.ts
 #EXTINF:-1 group-title="COMBATE",Combate HD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292635.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 1 HD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292662.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 1 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292664.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 2 HD+
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292665.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 2 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292666.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 3 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292667.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 4 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292669.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 3 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292668.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 4 UHD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292670.ts
+#EXTINF:-1 group-title="PREMIERE",Premiere 4 HD+
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292669.ts
+#EXTINF:-1 group-title="PREMIERE",Premiere 2 UHD
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292666.ts
+#EXTINF:-1 group-title="PREMIERE",Premiere 3 UHD
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292668.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 5 HD+
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292671.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 5 UHD
@@ -231,664 +27,370 @@ http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292672.ts
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292673.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 6 UHD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292674.ts
-#EXTINF:-1 group-title="SPORTV",SporTV 1 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292681.ts
-#EXTINF:-1 group-title="SPORTV",SporTV 1 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292682.ts
 #EXTINF:-1 group-title="SPORTV 2",SporTV 2 HD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292683.ts
-#EXTINF:-1 group-title="SPORTV 2",SporTV 2 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292684.ts
-#EXTINF:-1 group-title="SPORTV 2",SporTV 2 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292685.ts
-#EXTINF:-1 group-title="SPORTV 3",SporTV 3 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292687.ts
-#EXTINF:-1 group-title="SPORTV 3",SporTV 3 HD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292686.ts
-#EXTINF:-1 group-title="PREMIERE",V FILM PREMIERE HD [SUB DK]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/272506.ts
-#EXTINF:-1 group-title="SPORTV 3",SporTV 3 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292688.ts
-#EXTINF:-1 group-title="PREMIERE",V FILM PREMIERE HD [SUB NO]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/272457.ts
-#EXTINF:-1 group-title="PREMIERE",IE| Sky Cinema Premiere
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/291156.ts
-#EXTINF:-1 group-title="PREMIERE",IE| Sky Cinema Premiere FHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/291157.ts
-#EXTINF:-1 group-title="PREMIERE",IE| Sky Cinema Premiere HD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/291158.ts
-#EXTINF:-1 group-title="PREMIERE",IE| Sky Cinema Premiere HD 50FPS
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/291159.ts
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY CINEMA PREMIEREN FHD  [MULTI AUDIO]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/295188.ts
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY CINEMA PREMIEREN HD  [MULTI AUDIO]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/295189.ts
 #EXTINF:-1 group-title="PREMIERE",HR| Cinestar Premiere 1
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/285425.ts
-#EXTINF:-1 group-title="PREMIERE",|NL| FILM1 PREMIERE FHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288447.ts
-#EXTINF:-1 group-title="PREMIERE",|NL| FILM1 PREMIERE HD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288448.ts
 #EXTINF:-1 group-title="PREMIERE",HR| Cinestar Premiere 2
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/285426.ts
+#EXTINF:-1 group-title="SPORTV 3",SporTV 3 HD+
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292687.ts
 #EXTINF:-1 group-title="ESPN 2",|NL| ESPN 2 FHD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288629.ts
 #EXTINF:-1 group-title="ESPN 2",|NL| ESPN 2 FHD (50FPS)
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288630.ts
-#EXTINF:-1 group-title="ESPN 2",|NL| ESPN 2 HD (Ã¡Â´Â¢Ã‰ÂªÃ‰Â¢Ã‰Â¢Ã¡Â´Â)
+#EXTINF:-1 group-title="ESPN 2",|NL| ESPN 2 HD (ÃƒÂ¡Ã‚Â´Ã‚Â¢Ãƒâ€°Ã‚ÂªÃƒâ€°Ã‚Â¢Ãƒâ€°Ã‚Â¢ÃƒÂ¡Ã‚Â´Ã‚Â)
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288631.ts
 #EXTINF:-1 group-title="ESPN 3",|NL| ESPN 3 FHD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288632.ts
-#EXTINF:-1 group-title="PREMIERE",V FILM PREMIERE HD [SUB FI]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/272576.ts
 #EXTINF:-1 group-title="ESPN 3",|NL| ESPN 3 FHD (50FPS)
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288633.ts
-#EXTINF:-1 group-title="ESPN 3",|NL| ESPN 3 HD (Ã¡Â´Â¢Ã‰ÂªÃ‰Â¢Ã‰Â¢Ã¡Â´Â)
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288634.ts
+#EXTINF:-1 group-title="SPORTV 3",SporTV 3 HD
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292686.ts
 #EXTINF:-1 group-title="ESPN 4",|NL| ESPN 4 FHD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288635.ts
 #EXTINF:-1 group-title="ESPN 4",|NL| ESPN 4 FHD (50FPS)
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288636.ts
-#EXTINF:-1 group-title="ESPN 4",|NL| ESPN 4 HD (Ã¡Â´Â¢Ã‰ÂªÃ‰Â¢Ã‰Â¢Ã¡Â´Â)
+#EXTINF:-1 group-title="ESPN 3",|NL| ESPN 3 HD (ÃƒÂ¡Ã‚Â´Ã‚Â¢Ãƒâ€°Ã‚ÂªÃƒâ€°Ã‚Â¢Ãƒâ€°Ã‚Â¢ÃƒÂ¡Ã‚Â´Ã‚Â)
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288634.ts
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
+http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/20430
+#EXTINF:-1 group-title="ESPN 4",|NL| ESPN 4 HD (ÃƒÂ¡Ã‚Â´Ã‚Â¢Ãƒâ€°Ã‚ÂªÃƒâ€°Ã‚Â¢Ãƒâ€°Ã‚Â¢ÃƒÂ¡Ã‚Â´Ã‚Â)
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/288637.ts
-#EXTINF:-1 group-title="UFC",UFC FHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/278446.ts
-#EXTINF:-1 group-title="ESPN 2",[US] ESPN 2 HD [D]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/289018.ts
+#EXTINF:-1 group-title="SPORTV 3",SporTV 3 UHD
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292688.ts
 #EXTINF:-1 group-title="ESPN 2",[US] ESPN 2 HD [H]
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/289019.ts
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="ESPN 2",[US] ESPN 2 HD [D]
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/289018.ts
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 7 BR (HD)
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/567
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/27202
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
+http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/568
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
-http://canal-pro.xyz:8080/954058121tv/j271vj/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/954058121tv/j271vj/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
+http://canal-pro.xyz:8080/954058121tv/j271vj/20430
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/954058121tv/j271vj/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/954058121tv/j271vj/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/954058121tv/j271vj/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://canal-pro.xyz:8080/954058121tv/j271vj/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://canal-pro.xyz:8080/954058121tv/j271vj/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 7 BR (HD)
 http://canal-pro.xyz:8080/954058121tv/j271vj/567
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
+http://canal-pro.xyz:8080/954058121tv/j271vj/54414
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
+http://canal-pro.xyz:8080/954058121tv/j271vj/54415
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
+http://canal-pro.xyz:8080/954058121tv/j271vj/54416
 #EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
 http://canal-pro.xyz:8080/954058121tv/j271vj/27157
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://canal-pro.xyz:8080/954058121tv/j271vj/27202
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://canal-pro.xyz:8080/954058121tv/j271vj/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://canal-pro.xyz:8080/954058121tv/j271vj/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://canal-pro.xyz:8080/954058121tv/j271vj/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://canal-pro.xyz:8080/954058121tv/j271vj/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://canal-pro.xyz:8080/954058121tv/j271vj/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/567
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/27202
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://newultra.xyz:8080/QVNSr7E1Wt/xJJG5VLMOZ/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/567
 #EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/27157
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/27202
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/567
 #EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/27157
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/27202
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
+http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/20693
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/567
 #EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/27157
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/27202
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/972375747tv/376d6u/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/972375747tv/376d6u/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
-http://canal-pro.xyz:8080/972375747tv/376d6u/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/972375747tv/376d6u/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
+http://canal-pro.xyz:8080/972375747tv/376d6u/20694
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/972375747tv/376d6u/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://canal-pro.xyz:8080/972375747tv/376d6u/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://canal-pro.xyz:8080/972375747tv/376d6u/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/567
 #EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
 http://canal-pro.xyz:8080/972375747tv/376d6u/27157
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://canal-pro.xyz:8080/972375747tv/376d6u/27202
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
+http://canal-pro.xyz:8080/972375747tv/376d6u/54414
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
+http://canal-pro.xyz:8080/972375747tv/376d6u/54415
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://canal-pro.xyz:8080/972375747tv/376d6u/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://canal-pro.xyz:8080/972375747tv/376d6u/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://canal-pro.xyz:8080/972375747tv/376d6u/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://canal-pro.xyz:8080/972375747tv/376d6u/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/988675398tv/290tb1/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/988675398tv/290tb1/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/988675398tv/290tb1/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/988675398tv/290tb1/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/988675398tv/290tb1/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://newultra.xyz:8080/988675398tv/290tb1/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://newultra.xyz:8080/988675398tv/290tb1/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/567
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://newultra.xyz:8080/988675398tv/290tb1/27202
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://newultra.xyz:8080/988675398tv/290tb1/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
 http://newultra.xyz:8080/988675398tv/290tb1/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
 http://newultra.xyz:8080/988675398tv/290tb1/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://newultra.xyz:8080/988675398tv/290tb1/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://newultra.xyz:8080/988675398tv/290tb1/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://newultra.xyz:8080/988675398tv/290tb1/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://newultra.xyz:8080/988675398tv/290tb1/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://newultra.xyz:8080/988675398tv/290tb1/59515
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
+http://newultra.xyz:8080/951163103tv/uu7049/20430
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
+http://newultra.xyz:8080/951163103tv/uu7049/20693
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
+http://newultra.xyz:8080/951163103tv/uu7049/20694
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
+http://newultra.xyz:8080/951163103tv/uu7049/568
 #EXTINF:-1 group-title="UFC",03. UFC FIGHT PASS
 http://bgdc.live:25461/miss.sara/8749634/206859
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
+http://newultra.xyz:8080/951163103tv/uu7049/569
 #EXTINF:-1 group-title="UFC",03. UFC FIGHT PASS
 http://bgdc.live:25461/gloriamendoza25/25768465/206859
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
-http://newultra.xyz:8080/951163103tv/uu7049/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
-http://newultra.xyz:8080/951163103tv/uu7049/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
-http://newultra.xyz:8080/951163103tv/uu7049/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
-http://newultra.xyz:8080/951163103tv/uu7049/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
-http://newultra.xyz:8080/951163103tv/uu7049/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://newultra.xyz:8080/951163103tv/uu7049/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://newultra.xyz:8080/951163103tv/uu7049/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/567
 #EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
 http://newultra.xyz:8080/951163103tv/uu7049/27157
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://newultra.xyz:8080/951163103tv/uu7049/27202
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://newultra.xyz:8080/951163103tv/uu7049/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
 http://newultra.xyz:8080/951163103tv/uu7049/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
 http://newultra.xyz:8080/951163103tv/uu7049/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://newultra.xyz:8080/951163103tv/uu7049/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://newultra.xyz:8080/951163103tv/uu7049/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://newultra.xyz:8080/951163103tv/uu7049/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://newultra.xyz:8080/951163103tv/uu7049/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://newultra.xyz:8080/951163103tv/uu7049/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/567
 #EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/27157
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/27202
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/59515
-#EXTINF:-1 group-title="UFC",PPVÃ¢â‚¬Â¢ UFC FIGHT PASS (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="UFC",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ UFC FIGHT PASS (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/934468939tv/230s8v/20430
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/934468939tv/230s8v/20693
-#EXTINF:-1 group-title="COMBATE",PPVÃ¢â‚¬Â¢ COMBATE (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="COMBATE",PPVÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ COMBATE (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/934468939tv/230s8v/20694
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»1Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»1Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/934468939tv/230s8v/568
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE CLUBES BR (HD) Ã‚Â»2Ã‚Â«
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE CLUBES BR (HD) Ãƒâ€šÃ‚Â»2Ãƒâ€šÃ‚Â«
 http://newultra.xyz:8080/934468939tv/230s8v/569
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 1 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 1 BR (HD)
 http://newultra.xyz:8080/934468939tv/230s8v/561
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 3 BR (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/563
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 4 BR (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/564
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 5 BR (HD)
+#EXTINF:-1 group-title="PREMIERE",DEPÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ PREMIERE 5 BR (HD)
 http://newultra.xyz:8080/934468939tv/230s8v/565
-#EXTINF:-1 group-title="PREMIERE",DEPÃ¢â‚¬Â¢ PREMIERE 7 BR (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/567
 #EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
 http://newultra.xyz:8080/934468939tv/230s8v/27157
-#EXTINF:-1 group-title="SPORTV 2",VIP_BR:SPORTV 2 HD
-http://newultra.xyz:8080/934468939tv/230s8v/27202
 #EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
 http://newultra.xyz:8080/934468939tv/230s8v/27204
-#EXTINF:-1 group-title="ESPN 2",ZCLÃ¢â‚¬Â¢ ESPN 2 (HD)
+#EXTINF:-1 group-title="ESPN 2",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 2 (HD)
 http://newultra.xyz:8080/934468939tv/230s8v/54414
-#EXTINF:-1 group-title="ESPN 3",ZCLÃ¢â‚¬Â¢ ESPN 3 (HD)
+#EXTINF:-1 group-title="ESPN 3",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 3 (HD)
 http://newultra.xyz:8080/934468939tv/230s8v/54415
-#EXTINF:-1 group-title="ESPN 4",ZCLÃ¢â‚¬Â¢ ESPN 4 (HD)
+#EXTINF:-1 group-title="ESPN 4",ZCLÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ ESPN 4 (HD)
 http://newultra.xyz:8080/934468939tv/230s8v/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://newultra.xyz:8080/934468939tv/230s8v/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://newultra.xyz:8080/934468939tv/230s8v/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://newultra.xyz:8080/934468939tv/230s8v/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://newultra.xyz:8080/934468939tv/230s8v/59515
-#EXTINF:-1 group-title="PREMIERE",||TR|| beIN MOVIES PREMIERE 2 FHD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/50960.ts
 #EXTINF:-1 group-title="ESPN 2",||NL|| ESPN 2 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/36909.ts
 #EXTINF:-1 group-title="ESPN 3",||NL|| ESPN 3 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/36910.ts
+#EXTINF:-1 group-title="PREMIERE",||TR|| beIN MOVIES PREMIERE 2 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/50960.ts
 #EXTINF:-1 group-title="COMBATE",||BR|| Combate FHD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88604.ts
-#EXTINF:-1 group-title="ESPN 2",||USA|| ESPN 2 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/43329.ts
 #EXTINF:-1 group-title="SPORTV 2",||BR|| SporTV 2 FHD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88705.ts
 #EXTINF:-1 group-title="SPORTV 2",||BR|| SporTV 2 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88706.ts
-#EXTINF:-1 group-title="SPORTV",||BR|| SporTV FHD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88710.ts
-#EXTINF:-1 group-title="SPORTV 3",||BR|| SporTV 3 FHD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88708.ts
 #EXTINF:-1 group-title="SPORTV 3",||BR|| SporTV 3 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88709.ts
-#EXTINF:-1 group-title="PREMIERE",||BR|| PREMIERE 4 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88731.ts
-#EXTINF:-1 group-title="PREMIERE",||BR|| PREMIERE 5 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88732.ts
-#EXTINF:-1 group-title="PREMIERE",||BR|| PREMIERE 6 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88733.ts
+#EXTINF:-1 group-title="SPORTV 3",||BR|| SporTV 3 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88708.ts
 #EXTINF:-1 group-title="SPORTV",||PT|| SPORTV 4 FHD+
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/16811.ts
-#EXTINF:-1 group-title="SPORTV",||PT|| SPORTV 5 FHD+
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/16812.ts
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
 http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157505
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157507
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157508
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 8
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157510
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157509
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157514
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/157516
+#EXTINF:-1 group-title="SPORTV",||PT|| SPORTV 5 FHD+
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/16812.ts
+#EXTINF:-1 group-title="PREMIERE",||BR|| PREMIERE 5 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88732.ts
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4902
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4890
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4902
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4904
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 1
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157503
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157505
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157506
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157507
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157508
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157509
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 8
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157510
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 9
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157511
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157514
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157515
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 15
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157517
+#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 1
+http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157503
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157516
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 16
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157518
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
-http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157519
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 1
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157503
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157505
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157507
+#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 16
+http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157518
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157508
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157509
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 8
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157510
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 9
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157511
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157514
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157515
+#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
+http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/157519
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157516
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 15
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157517
+#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
+http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 16
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157518
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/157519
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4889
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4903
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4904
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 1
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157503
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4904
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157505
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157507
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157508
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
@@ -899,8 +401,6 @@ http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157510
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157511
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
@@ -911,20 +411,10 @@ http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157517
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157518
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/157519
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/4889
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/VIP0181754228668533/27d6c08040cf/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
@@ -935,8 +425,6 @@ http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157503
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157505
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157507
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157508
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
@@ -947,8 +435,6 @@ http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157510
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157511
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
@@ -959,34 +445,18 @@ http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157517
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157518
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/157519
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4889
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4902
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4904
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP016011754502495537/eed8f630d9ed/4890
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 1
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157503
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157505
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157507
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
-http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157508
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157509
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 8
@@ -995,20 +465,16 @@ http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157510
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157511
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157516
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 15
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157517
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 16
-http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157518
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157519
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/4838
+#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 16
+http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/157518
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
@@ -1017,20 +483,14 @@ http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/4887
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP011371758622544149/3bf5e97f9c06/4904
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/4888
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
@@ -1039,8 +499,6 @@ http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/4904
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157503
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157507
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157508
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
@@ -1051,8 +509,6 @@ http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157510
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157511
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/VIP019411760893674102/284e9c95e3ee/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 15
@@ -1067,8 +523,6 @@ http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157503
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157505
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157507
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157508
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
@@ -1079,8 +533,6 @@ http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157510
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157511
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
@@ -1091,16 +543,6 @@ http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157517
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157518
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/157519
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4838
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4889
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
@@ -1109,8 +551,6 @@ http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4892
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip9281768635676/ec3d21216b35/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP011241754378522535/122a801cc57b/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP011241754378522535/122a801cc57b/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
@@ -1121,126 +561,74 @@ http://vipapyenhmw.top:8080/VIP011241754378522535/122a801cc57b/4903
 http://vipapyenhmw.top:8080/VIP011241754378522535/122a801cc57b/4904
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 1
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157503
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157507
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157508
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 9
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157511
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157514
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
-http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157516
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 15
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157517
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/157519
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4838
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4888
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4904
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4855
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
 http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/157505
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/157507
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4889
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
 http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4902
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4838
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4903
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4889
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4889
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
 http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4904
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4887
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
 http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4889
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4903
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
+http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4890
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
 http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4889
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
 http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
@@ -1249,50 +637,24 @@ http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4892
 http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
 http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4889
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4890
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
-http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4892
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4903
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/vip2001767808148/310ee6fc38fc/4838
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://vipapyenhmw.top:8080/vip2001767808148/310ee6fc38fc/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip2001767808148/310ee6fc38fc/4892
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/vip2001767808148/310ee6fc38fc/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip2001767808148/310ee6fc38fc/4904
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 1
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157503
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157505
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157507
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4904
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157508
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157509
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 8
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157510
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 9
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157511
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157513
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
@@ -1301,80 +663,46 @@ http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157516
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157517
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157519
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4889
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4888
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 4
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4889
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4903
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 16
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157518
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4904
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157505
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157507
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157509
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 8
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157510
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157516
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 15
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157517
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 16
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157518
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157519
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 1
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157503
+#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 16
+http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/157518
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 3
 http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157505
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 4
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157506
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 5
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157507
+#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
+http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/157519
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 6
 http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157508
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 7
@@ -1383,10 +711,6 @@ http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157509
 http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157510
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 9
 http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157511
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
@@ -1415,8 +739,6 @@ http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/157510
 http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/157511
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 14
@@ -1427,46 +749,20 @@ http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/157517
 http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/157518
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/157519
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/4838
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/4902
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4902
-#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
-http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4904
-#EXTINF:-1 group-title="COMBATE",BR: COMBATE
-http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4838
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4887
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4892
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
-http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4902
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4903
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
@@ -1483,382 +779,54 @@ http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/157509
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/157511
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 11
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/157513
-#EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 12
-http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/157514
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 13
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/157515
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 15
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/157517
 #EXTINF:-1 group-title="PREMIERE",GR: NOVA PREMIERE 17
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/157519
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/Beratturkcan1441/s4ppSP6XDm/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/Burcu1985/sFCwMaC3DX/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/3Aalfa375X1w/58ZW34X5DNKm/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/171114
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 1 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209086
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 2 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209087
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 3 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209088
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 5 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209090
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 8 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209092
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 9 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209093
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 11 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209095
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 13 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209097
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 14 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209098
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 15 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209099
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 16 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209100
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 17 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209101
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 18 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209102
-#EXTINF:-1 group-title="UFC",PPV: UFC FIGHT PASS
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/217365
-#EXTINF:-1 group-title="PREMIERE",RS: CINESTAR PREMIERE 2
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218137
-#EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 1
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218792
-#EXTINF:-1 group-title="PREMIERE",RS: CINESTAR TV PREMIERE 1
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218139
-#EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 1 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218793
-#EXTINF:-1 group-title="COMBATE",BR:  COMBATE HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219886
-#EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 2
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218794
-#EXTINF:-1 group-title="ESPN BRASIL",BR:  ESPN BRASIL HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219899
-#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE 5 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219935
-#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE 7 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219937
-#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE CLUBES HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219938
-#EXTINF:-1 group-title="SPORTV",BR:  SPORTV HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219946
-#EXTINF:-1 group-title="ESPN 4",BR:.ESPN 4 4K
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220032
-#EXTINF:-1 group-title="SPORTV",BR:.SPORTV 4K
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220036
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220059
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220060
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 1
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220073
-#EXTINF:-1 group-title="PREMIERE",SI: CINESTAR PREMIERE 1 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220580
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/KXDNMFBuKr/hfwn7fpwQE/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/hasan27/27hasan/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/fehmikarabacak/j5xn4dgjKE/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/171114
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 1 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209086
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 2 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209087
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 3 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209088
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 4 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209089
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 8 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209092
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 9 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209093
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 6 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209091
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 5 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209090
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 11 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209095
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 13 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209097
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 14 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209098
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 15 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209099
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 16 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209100
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 17 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209101
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 18 FHD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/209102
-#EXTINF:-1 group-title="PREMIERE",RS: CINESTAR TV PREMIERE 1
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218139
-#EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 1
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218792
-#EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 1 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218793
-#EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 2
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/218794
-#EXTINF:-1 group-title="COMBATE",BR:  COMBATE HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219886
-#EXTINF:-1 group-title="ESPN BRASIL",BR:  ESPN BRASIL HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219899
-#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE 5 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219935
-#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE 7 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219937
-#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE CLUBES HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/219938
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220059
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220060
-#EXTINF:-1 group-title="SPORTV",BR:.SPORTV 4K
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220036
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 1
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220073
-#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220077
-#EXTINF:-1 group-title="PREMIERE",SI: CINESTAR PREMIERE 1 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220580
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/berkayarda/JzKfhwQMwT/171114
-#EXTINF:-1 group-title="PREMIERE",SI: CINESTAR PREMIERE 2 HD
-http://xsoft25.online:8080/yusuftc/zgCTUvnawq/220581
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/Beratturkcan1441/s4ppSP6XDm/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/fehmikarabacak/j5xn4dgjKE/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/JOH/rMG5aDC9VY/171114
-#EXTINF:-1 group-title="UFC",[TR] UFC FIGHT PASS Ã’â€œÃŠÅ“Ã¡Â´â€¦
-http://xsoft25.online:8080/aliataoz/ba76582070/171114
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 1 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209086
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 2 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209087
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 3 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209088
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 4 FHD
-http://xsoft25.online:8080/aliataoz/ba76582070/209089
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 5 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209090
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 9 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209093
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 10 FHD
-http://xsoft25.online:8080/aliataoz/ba76582070/209094
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 11 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209095
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 12 FHD
-http://xsoft25.online:8080/aliataoz/ba76582070/209096
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 13 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209097
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 15 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209099
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 16 FHD
-http://xsoft25.online:8080/aliataoz/ba76582070/209100
 #EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 18 FHD
 http://xsoft25.online:8080/aliataoz/ba76582070/209102
-#EXTINF:-1 group-title="PREMIERE",|DE| SKY SELECT PREMIERE 17 FHD
-http://xsoft25.online:8080/aliataoz/ba76582070/209101
 #EXTINF:-1 group-title="PREMIERE",RS: CINESTAR PREMIERE 2
 http://xsoft25.online:8080/aliataoz/ba76582070/218137
 #EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 1
 http://xsoft25.online:8080/aliataoz/ba76582070/218792
-#EXTINF:-1 group-title="PREMIERE",RS: CINESTAR TV PREMIERE 1
-http://xsoft25.online:8080/aliataoz/ba76582070/218139
 #EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 1 HD
 http://xsoft25.online:8080/aliataoz/ba76582070/218793
 #EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 2
 http://xsoft25.online:8080/aliataoz/ba76582070/218794
 #EXTINF:-1 group-title="ESPN BRASIL",BR:  ESPN BRASIL HD
 http://xsoft25.online:8080/aliataoz/ba76582070/219899
-#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE 5 HD
-http://xsoft25.online:8080/aliataoz/ba76582070/219935
-#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE CLUBES HD
-http://xsoft25.online:8080/aliataoz/ba76582070/219938
-#EXTINF:-1 group-title="SPORTV 2",BR:  SPORTV 2 HD
-http://xsoft25.online:8080/aliataoz/ba76582070/219944
-#EXTINF:-1 group-title="SPORTV 3",BR:  SPORTV 3 HD
-http://xsoft25.online:8080/aliataoz/ba76582070/219945
 #EXTINF:-1 group-title="ESPN 4",BR:.ESPN 4 4K
 http://xsoft25.online:8080/aliataoz/ba76582070/220032
-#EXTINF:-1 group-title="SPORTV",BR:.SPORTV 4K
-http://xsoft25.online:8080/aliataoz/ba76582070/220036
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://xsoft25.online:8080/aliataoz/ba76582070/220059
 #EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL
 http://xsoft25.online:8080/aliataoz/ba76582070/220077
-#EXTINF:-1 group-title="PREMIERE",SI: CINESTAR PREMIERE 1 HD
-http://xsoft25.online:8080/aliataoz/ba76582070/220580
 #EXTINF:-1 group-title="PREMIERE",SI: CINESTAR PREMIERE 2 HD
 http://xsoft25.online:8080/aliataoz/ba76582070/220581
-#EXTINF:-1 group-title="PREMIERE",Kino Premiere 1 HD AL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/2102
-#EXTINF:-1 group-title="PREMIERE",Kino Premiere 2 HD AL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/2101
-#EXTINF:-1 group-title="PREMIERE",KS Premiere 1 AL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/14032
-#EXTINF:-1 group-title="PREMIERE",KS Premiere 3 AL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/14030
-#EXTINF:-1 group-title="PREMIERE",KS Premiere 2 AL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/14031
-#EXTINF:-1 group-title="PREMIERE",KS Premiere 4 AL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/14029
-#EXTINF:-1 group-title="PREMIERE",Cinestar Premiere 1 ex-Yu
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/2313
-#EXTINF:-1 group-title="PREMIERE",Cinestar Premiere 2 ex-Yu
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/2312
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD NL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/12632
-#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD NL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/242
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD NL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/12633
-#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD NL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/6510
-#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD NL
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/241
-#EXTINF:-1 group-title="PREMIERE",beINMovies Premiere 1 HD TR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/1128
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD US
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/569
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 US
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/7787
-#EXTINF:-1 group-title="UFC",UFC Fight Pass US
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/6421
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 13 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/78155
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 14 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/78156
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 15 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/78157
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 16 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/78158
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 17 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/78159
-#EXTINF:-1 group-title="SPORTV 2",SporTV 2 BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/3381
-#EXTINF:-1 group-title="SPORTV 3",SporTV 3 BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/3380
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 1 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/75478
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/75479
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/75481
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/75480
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/75482
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/75483
-#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/75484
-#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/80057
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/79997
-#EXTINF:-1 group-title="SPORTV 2",SPORTV 2 FHD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/80074
-#EXTINF:-1 group-title="SPORTV 3",SPORTV 3 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/80075
-#EXTINF:-1 group-title="COMBATE",Combate SD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/81039
-#EXTINF:-1 group-title="COMBATE",Combate HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/81040
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/81065
-#EXTINF:-1 group-title="SPORTV 3",Sportv 3 FHD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/81160
-#EXTINF:-1 group-title="SPORTV 2",Sportv 2 HD BR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/81161
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 Latin America
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/5370
-#EXTINF:-1 group-title="ESPN 3",ESPN 3 Latin America
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/5369
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD VIP US
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/10186
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD VIP US
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/8998
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 VIP US
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/10187
-#EXTINF:-1 group-title="UFC",UFC Fight Pass VIP US
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/10130
-#EXTINF:-1 group-title="ESPN 2",NCAAF | 07 ESPN 2 VIP US
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/95229
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 1 UHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/62516
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 3D GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32708
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 2 UHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/62517
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 3 UHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/62518
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 4 UHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/62519
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 5 UHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/62520
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 6 UHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/62521
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 7 UHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/62522
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 1 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32707
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 2 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32706
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 3 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32705
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 4 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32704
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 5 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32703
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 6 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32702
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 7 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32701
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 8 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32700
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 9 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32699
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 10 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32698
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 11 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32697
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 12 FHD GR
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/32696
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD AF
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/111443
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 VIP AF
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/97989
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD VIP Latin America
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/11436
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 VIP Latin America
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/11710
-#EXTINF:-1 group-title="ESPN 3",ESPN 3 FHD VIP Latin America
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/11435
-#EXTINF:-1 group-title="ESPN 3",ESPN 3 VIP Latin America
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/11709
-#EXTINF:-1 group-title="COMBATE",Combates UFC 24/7 ( Exclusivo ) PT
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/96328
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 8 4K UHD
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/97282
-#EXTINF:-1 group-title="PREMIERE",Nova Premiere 9 4K UHD
-http://pp.prison2break.xyz:8080/fyMN7XmAip/6Pdz1gLn2k/97281
-#EXTINF:-1 group-title="PREMIERE",AL: CineStar TV Premiere 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/297303
 #EXTINF:-1 group-title="PREMIERE",AL: CineStar TV Premiere 2
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/297302
 #EXTINF:-1 group-title="PREMIERE",AL: Illyrian Cinema Premiere 2
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/310106
+#EXTINF:-1 group-title="PREMIERE",AL: CineStar TV Premiere 1
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/297303
 #EXTINF:-1 group-title="PREMIERE",AL: Ks Premiere 1
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/294446
 #EXTINF:-1 group-title="PREMIERE",AL: Illyrian Cinema Premiere 1
@@ -1869,94 +837,86 @@ http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/281898
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/173479
 #EXTINF:-1 group-title="PREMIERE",AL: Ks Premiere 3
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/173465
-#EXTINF:-1 group-title="PREMIERE",AL: Netflix Premiere 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/310116
-#EXTINF:-1 group-title="PREMIERE",AL: Netflix Premiere 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/310117
 #EXTINF:-1 group-title="COMBATE",BR: Combate
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8778
 #EXTINF:-1 group-title="ESPN 3",BR: ESPN 3
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/290657
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8801
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4015
 #EXTINF:-1 group-title="ESPN 4",BR: ESPN 4
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/299345
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8783
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8784
-#EXTINF:-1 group-title="SPORTV",BR: SPORTV
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4015
 #EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 1
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4141
-#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4142
-#EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 10
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279831
 #EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 12
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279833
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8784
 #EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 11
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279832
 #EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 13
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279834
-#EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 14
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279835
-#EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 17
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279821
+#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 2
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4142
+#EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 10
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279831
 #EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 3
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279824
 #EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 8
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279829
+#EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 14
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279835
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 1
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/16
-#EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 9
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279830
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 10
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/146537
+#EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 17
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279821
+#EXTINF:-1 group-title="PREMIERE",DE: Sky Select Premiere 9
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/279830
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 11
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/22
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 12
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/23
-#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 13
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/24
-#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 14
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/5905
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 16
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/26
+#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 13
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/24
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 17
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/27
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 15
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/25
-#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 18
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/151622
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 3
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/5901
-#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/17
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 4
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/42973
-#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 3D
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/300098
+#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 14
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/5905
+#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 18
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/151622
+#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 2
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/17
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 5
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/5902
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 6 UHD
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/19
+#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 3D
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/300098
 #EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 7 UHD
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/146535
-#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 8
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/20
-#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 9
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/146536
 #EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 1
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/84430
-#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/299623
+#EXTINF:-1 group-title="PREMIERE",GR: Nova Premiere 9
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/146536
 #EXTINF:-1 group-title="COMBATE",PT: Combate
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/306093
+#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 2
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/299623
 #EXTINF:-1 group-title="PREMIERE",QA: beIN Movies Premiere 1
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/267063
-#EXTINF:-1 group-title="PREMIERE",RS: TV Gora Premiere 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/310035
 #EXTINF:-1 group-title="PREMIERE",RS: TV Gora Premiere 2
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/310036
 #EXTINF:-1 group-title="ESPN 2",VE: ESPN 2
