@@ -1,120 +1,1526 @@
 #EXTM3U
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://canal-pro.xyz:8080/979496566tv/st7xug/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://canal-pro.xyz:8080/979496566tv/st7xug/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://canal-pro.xyz:8080/979496566tv/st7xug/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://canal-pro.xyz:8080/979496566tv/st7xug/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://canal-pro.xyz:8080/979496566tv/st7xug/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://canal-pro.xyz:8080/979496566tv/st7xug/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://canal-pro.xyz:8080/979496566tv/st7xug/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://canal-pro.xyz:8080/979496566tv/st7xug/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://canal-pro.xyz:8080/979496566tv/st7xug/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://canal-pro.xyz:8080/979496566tv/st7xug/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://canal-pro.xyz:8080/979496566tv/st7xug/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://canal-pro.xyz:8080/979496566tv/st7xug/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://canal-pro.xyz:8080/979496566tv/st7xug/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://canal-pro.xyz:8080/979496566tv/st7xug/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://canal-pro.xyz:8080/979496566tv/st7xug/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://canal-pro.xyz:8080/979496566tv/st7xug/59421
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://canal-pro.xyz:8080/979496566tv/st7xug/59515
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://canal-pro.xyz:8080/979496566tv/st7xug/59514
-#EXTINF:-1 group-title="COMBATE",Combate (Brasil)
-http://tvpromas.com:2082/56991892148/230725act/14128
-#EXTINF:-1 group-title="UFC",UFC Fight Pass
-http://tvpromas.com:2082/56991892148/230725act/50530
-#EXTINF:-1 group-title="SPORTV",SsporTV 1
-http://tvpromas.com:2082/56991892148/230725act/127250
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/269794.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/269795.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 SD MX
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/192174.ts
 #EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
-http://tvpromas.com:2082/56991892148/230725act/56936
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 COLOMBIA
-http://matrivagoweb.xyz:8080/5322637/123456/218970
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/192175.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/192176.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 MX
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/268519.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/455149.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/455150.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/455151.ts
+#EXTINF:-1 group-title="PREMIERE",Golden Premiere 2 HD
+http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/455169.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/269794.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/269795.ts
+#EXTINF:-1 group-title="COMBATE",Arena (Combate mortal) (2011)
+http://flexlive.lat:8080/movie/Clemente2024/J5XtVRb6KPLj/416839.avi
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 SD MX
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/192174.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/192175.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/192176.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 MX
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/268519.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/455149.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/455150.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/455151.ts
+#EXTINF:-1 group-title="PREMIERE",Golden Premiere 2 HD
+http://flexlive.lat:8080//live/DanielLoaiza7/T8CSE9MY9/455169.ts
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/064334/031125/84953
+#EXTINF:-1 group-title="COMBATE",Arena (Combate mortal) (2011)
+http://flexlive.lat:8080/movie/DanielLoaiza7/T8CSE9MY9/416839.avi
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/064334/031125/84979
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/064334/031125/84978
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/064334/031125/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/064334/031125/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/064334/031125/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/064334/031125/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/064334/031125/85095
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/064334/031125/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/064334/031125/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/064334/031125/86277
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/218355/511415/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/218355/511415/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/218355/511415/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/218355/511415/85065
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/218355/511415/84953
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/218355/511415/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/218355/511415/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/218355/511415/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/218355/511415/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/218355/511415/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/218355/511415/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/218355/511415/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/218355/511415/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/218355/511415/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/218355/511415/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/218355/511415/86277
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/61788
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/85165
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/86273
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/Tellemuno/6UmFp2wloP/86277
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 3 FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85063
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85068
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85067
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85094
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85165
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/85095
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/lemidi1959/lemidi1959/86277
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/jtrivett/samdog73/61788
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/jtrivett/samdog73/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/jtrivett/samdog73/85165
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/jtrivett/samdog73/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/jtrivett/samdog73/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/jtrivett/samdog73/86277
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/686601/961436/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/686601/961436/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/686601/961436/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/686601/961436/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/686601/961436/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/686601/961436/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/686601/961436/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/686601/961436/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/686601/961436/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/686601/961436/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/686601/961436/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/686601/961436/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/686601/961436/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/686601/961436/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/686601/961436/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/686601/961436/86277
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/445540/445877/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/445540/445877/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/445540/445877/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/445540/445877/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/445540/445877/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/445540/445877/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/445540/445877/85067
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/445540/445877/85093
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/445540/445877/85068
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/445540/445877/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/445540/445877/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/445540/445877/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/445540/445877/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/445540/445877/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/445540/445877/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/445540/445877/86277
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/090997/151457/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/090997/151457/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/090997/151457/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/090997/151457/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/090997/151457/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/090997/151457/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/090997/151457/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/090997/151457/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/090997/151457/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/090997/151457/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/090997/151457/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/090997/151457/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/090997/151457/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/090997/151457/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/090997/151457/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/090997/151457/86277
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/672321/492552/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/672321/492552/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/672321/492552/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/672321/492552/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/672321/492552/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/672321/492552/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/672321/492552/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/672321/492552/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/672321/492552/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/672321/492552/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/672321/492552/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/672321/492552/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/672321/492552/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/672321/492552/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/672321/492552/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/672321/492552/86277
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/670908/574694/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/670908/574694/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/670908/574694/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/670908/574694/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/670908/574694/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/670908/574694/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/670908/574694/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/670908/574694/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/670908/574694/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/670908/574694/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/670908/574694/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/670908/574694/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/670908/574694/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/670908/574694/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/670908/574694/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/670908/574694/86277
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/DLankford23/6199330159/61788
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/DLankford23/6199330159/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/DLankford23/6199330159/85165
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/DLankford23/6199330159/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/DLankford23/6199330159/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/DLankford23/6199330159/86277
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/420432/362998/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/420432/362998/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/420432/362998/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 2 FHD
+http://ns1.titv.club:8080/420432/362998/85062
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/420432/362998/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/420432/362998/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/420432/362998/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/420432/362998/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/420432/362998/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/420432/362998/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/420432/362998/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/420432/362998/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/420432/362998/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/420432/362998/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/420432/362998/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/420432/362998/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/420432/362998/86277
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 2
+http://013tv.com:8080/F13836/35b68aca/4142
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 1
+http://013tv.com:8080/F13836/35b68aca/4141
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://013tv.com:8080/F13836/35b68aca/299626
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F13836/35b68aca/35326
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 1
+http://013tv.com:8080/F13836/35b68aca/299629
+#EXTINF:-1 group-title="PREMIERE",TV Gora Premiere 2
+http://013tv.com:8080/F13836/35b68aca/310036
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://013tv.com:8080/F13836/35b68aca/299630
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F13836/35b68aca/41918
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://013tv.com:8080/F13836/35b68aca/14816
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://013tv.com:8080/F13836/35b68aca/2374
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/234663/417394/84953
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://013tv.com:8080/F13836/35b68aca/280280
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/234663/417394/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/234663/417394/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 2 FHD
+http://ns1.titv.club:8080/234663/417394/85062
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/234663/417394/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/234663/417394/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/234663/417394/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/234663/417394/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/234663/417394/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/234663/417394/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/234663/417394/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/234663/417394/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/234663/417394/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/234663/417394/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/234663/417394/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/234663/417394/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/234663/417394/86277
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 1
+http://013tv.com:8080/F18115/068f009e/297303
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 2
+http://013tv.com:8080/F18115/068f009e/297302
+#EXTINF:-1 group-title="PREMIERE",#Premiere 1
+http://013tv.com:8080/F18115/068f009e/192112
+#EXTINF:-1 group-title="PREMIERE",#Premiere 2
+http://013tv.com:8080/F18115/068f009e/307781
+#EXTINF:-1 group-title="PREMIERE",#Premiere 4
+http://013tv.com:8080/F18115/068f009e/307141
+#EXTINF:-1 group-title="PREMIERE",#Premiere 3
+http://013tv.com:8080/F18115/068f009e/307140
+#EXTINF:-1 group-title="PREMIERE",#Premiere 5
+http://013tv.com:8080/F18115/068f009e/307782
+#EXTINF:-1 group-title="PREMIERE",Illyrian Cinema Premiere 1
+http://013tv.com:8080/F18115/068f009e/310105
+#EXTINF:-1 group-title="PREMIERE",Illyrian Cinema Premiere 2
+http://013tv.com:8080/F18115/068f009e/310106
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2
+http://013tv.com:8080/F18115/068f009e/310117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://013tv.com:8080/F18115/068f009e/61170
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F18115/068f009e/35326
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1
+http://013tv.com:8080/F18115/068f009e/310116
+#EXTINF:-1 group-title="COMBATE",Combate
+http://013tv.com:8080/F18115/068f009e/8778
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F18115/068f009e/8801
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://013tv.com:8080/F18115/068f009e/299345
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://013tv.com:8080/F18115/068f009e/290657
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://013tv.com:8080/F18115/068f009e/4015
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://013tv.com:8080/F18115/068f009e/8783
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3
+http://013tv.com:8080/F18115/068f009e/8784
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F18115/068f009e/273212
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 1
+http://013tv.com:8080/F18115/068f009e/4141
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 1
+http://013tv.com:8080/F18115/068f009e/299629
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 2
+http://013tv.com:8080/F18115/068f009e/4142
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://013tv.com:8080/F18115/068f009e/299626
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://013tv.com:8080/F18115/068f009e/3032
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://013tv.com:8080/F18115/068f009e/295304
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://013tv.com:8080/F18115/068f009e/299623
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://013tv.com:8080/F18115/068f009e/38603
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F18115/068f009e/272119
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://013tv.com:8080/F18115/068f009e/272120
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://013tv.com:8080/F18115/068f009e/272121
+#EXTINF:-1 group-title="COMBATE",Combate
+http://013tv.com:8080/F18115/068f009e/306093
+#EXTINF:-1 group-title="PREMIERE",beIN Movies Premiere 1
+http://013tv.com:8080/F18115/068f009e/267063
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://013tv.com:8080/F18115/068f009e/299630
+#EXTINF:-1 group-title="PREMIERE",TV Gora Premiere 2
+http://013tv.com:8080/F18115/068f009e/310036
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F18115/068f009e/281480
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F18115/068f009e/8689
+#EXTINF:-1 group-title="PREMIERE",beIN Movies Premiere 2
+http://013tv.com:8080/F18115/068f009e/1765
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://013tv.com:8080/F18115/068f009e/280280
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F18115/068f009e/41918
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://013tv.com:8080/F18115/068f009e/14816
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://013tv.com:8080/F18115/068f009e/2374
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://013tv.com:8080/F30822/4a947b1f/280280
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://013tv.com:8080/F30822/4a947b1f/41918
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://013tv.com:8080/F30822/4a947b1f/14816
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://013tv.com:8080/F30822/4a947b1f/2374
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/61788
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 2 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85062
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 3 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85063
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/85165
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/Tampa3/Tampa3tv/86277
+#EXTINF:-1 group-title="COMBATE",[BR] Combate FHD
+http://ns1.titv.club:8080/793110/105955/84953
+#EXTINF:-1 group-title="ESPN 2",[BR] ESPN 2 FHD
+http://ns1.titv.club:8080/793110/105955/84978
+#EXTINF:-1 group-title="ESPN BRASIL",[BR] ESPN Brasil FHD
+http://ns1.titv.club:8080/793110/105955/84979
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 2 FHD
+http://ns1.titv.club:8080/793110/105955/85062
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 4 FHD
+http://ns1.titv.club:8080/793110/105955/85064
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 3 FHD
+http://ns1.titv.club:8080/793110/105955/85063
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 5 FHD
+http://ns1.titv.club:8080/793110/105955/85065
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 6 FHD
+http://ns1.titv.club:8080/793110/105955/85066
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere 7 FHD
+http://ns1.titv.club:8080/793110/105955/85067
+#EXTINF:-1 group-title="PREMIERE",[BR] Premiere Clubes FHD
+http://ns1.titv.club:8080/793110/105955/85068
+#EXTINF:-1 group-title="SPORTV 2",[BR] SporTV 2 FHD
+http://ns1.titv.club:8080/793110/105955/85093
+#EXTINF:-1 group-title="SPORTV 3",[BR] SporTV 3 FHD
+http://ns1.titv.club:8080/793110/105955/85094
+#EXTINF:-1 group-title="SPORTV",[BR] SporTV FHD
+http://ns1.titv.club:8080/793110/105955/85095
+#EXTINF:-1 group-title="COMBATE",[BR] COMBATE 4K
+http://ns1.titv.club:8080/793110/105955/85165
+#EXTINF:-1 group-title="ESPN 2",LATIN ESPN 2
+http://ns1.titv.club:8080/793110/105955/61788
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 2
+http://ns1.titv.club:8080/793110/105955/86271
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies  Premiere 1
+http://ns1.titv.club:8080/793110/105955/86273
+#EXTINF:-1 group-title="PREMIERE",[TR] beIN Movies Premiere 3
+http://ns1.titv.club:8080/793110/105955/86277
+#EXTINF:-1 group-title="UFC",UFC Fight PASS HD
+http://de.goygoytv.com:8080//live/Gg6HxyChLw/Dm1pBoQnz2/2069.ts
+#EXTINF:-1 group-title="PREMIERE",TR: BEIN MOVIES PREMIERE 2 FHD
+http://de.goygoytv.com:8080//live/ac4d82447ddaa3ac/cb7aca/517.ts
+#EXTINF:-1 group-title="UFC",UFC Fight PASS HD
+http://de.goygoytv.com:8080//live/ac4d82447ddaa3ac/cb7aca/2069.ts
+#EXTINF:-1 group-title="ESPN 2",USL: ESPN 2
+http://highschoolgirls.bounceme.net:2096/Tam/ebSBJMEf6m/775901
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 1
+http://smart.mediaking.fi:8080/live/adi_bl@yahoo.com/JVhkmXCdvj/370.ts
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 2
+http://smart.mediaking.fi:8080/live/adi_bl@yahoo.com/JVhkmXCdvj/371.ts
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791544
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791545
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791577
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791578
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791576
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791579
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791580
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791581
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791582
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791583
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791584
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791585
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791586
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791587
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791588
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158984
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158985
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158986
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158987
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158988
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158989
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158990
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158992
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158991
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158993
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158994
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158995
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158996
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158997
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158998
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158999
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159001
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159000
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159002
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159003
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159004
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159005
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159006
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159007
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159008
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159009
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159010
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159011
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159012
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159013
+#EXTINF:-1 group-title="COMBATE",BR: Combate FHD
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043816
+#EXTINF:-1 group-title="ESPN 4",BR: ESPN 4 FHD
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043880
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN Brasil FHD
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043884
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN Brasil HEVC
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043886
+#EXTINF:-1 group-title="SPORTV 3",BR: SporTV 3 FHD
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1044250
+#EXTINF:-1 group-title="SPORTV 2",BR: SporTV 2 SD
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1044249
+#EXTINF:-1 group-title="SPORTV",BR: SporTV HD
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1044256
+#EXTINF:-1 group-title="ESPN 2",NCAA: ESPN 2
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/996965
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043449
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043451
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043453
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043455
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043457
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043458
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043459
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043460
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043461
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043462
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043467
+#EXTINF:-1 group-title="PREMIERE",RS: CINESTAR PREMIERE 2
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/218137
+#EXTINF:-1 group-title="PREMIERE",RS: CINESTAR TV PREMIERE 1
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/218139
+#EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 1
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/218792
+#EXTINF:-1 group-title="PREMIERE",HR: CINESTAR PREMIERE 1 HD
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/218793
+#EXTINF:-1 group-title="COMBATE",BR:  COMBATE HD
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/219886
+#EXTINF:-1 group-title="ESPN 2",BR:  ESPN 2 HD
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/219898
+#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE CLUBES HD
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/219938
+#EXTINF:-1 group-title="SPORTV 2",BR:  SPORTV 2 HD
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/219944
+#EXTINF:-1 group-title="SPORTV",BR:  SPORTV HD
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/219946
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/220059
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/220060
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 1
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/220073
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL
+http://xsoft25.online:8080/dark56/ZWbfFWNYRa/220077
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/665115
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 1 FHD
+http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/644357
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 2 FHD
+http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/644356
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 1
+http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/665209
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 2
+http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/665208
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/Alexmanubuch/K6rYVvg5KH/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/Alexmanubuch/K6rYVvg5KH/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/Alexmanubuch/K6rYVvg5KH/665115
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/Alien1969/Alien19699/665714
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 BACKUP
+http://rxs4.eu:8080/Alien1969/Alien19699/665713
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/Alien1969/Alien19699/665712
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 BACKUP
+http://rxs4.eu:8080/Alien1969/Alien19699/665711
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/Alien1969/Alien19699/665710
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 BACKUP
+http://rxs4.eu:8080/Alien1969/Alien19699/665709
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/Alien1969/Alien19699/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/Alien1969/Alien19699/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/Alien1969/Alien19699/665115
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/CelaLbaBa20/BoNePaPa23/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/CelaLbaBa20/BoNePaPa23/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/CelaLbaBa20/BoNePaPa23/665115
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665115
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665714
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 BACKUP
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665713
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665712
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 BACKUP
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665711
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665710
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 BACKUP
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/665709
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 1 FHD
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/644357
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 2 FHD
+http://rxs4.eu:8080/AtzEdUpuq2/H94H8e56Uv/644356
+#EXTINF:-1 group-title="PREMIERE",b**N MOVIES PREMIERE 2 FHD
+http://rxs4.eu:8080/TimurTop/EeNS3e3CLS/571861
+#EXTINF:-1 group-title="PREMIERE",b**N MOVIES PREMIERE 2 HD
+http://rxs4.eu:8080/TimurTop/EeNS3e3CLS/571860
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/TimurTop/EeNS3e3CLS/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/TimurTop/EeNS3e3CLS/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/TimurTop/EeNS3e3CLS/665115
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/abone8461.16/529191663637289/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/abone8461.16/529191663637289/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/abone8461.16/529191663637289/665115
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/ChrisKyrffm/C13102021K/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/ChrisKyrffm/C13102021K/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/ChrisKyrffm/C13102021K/665115
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/EUBE2021/d9gYaaqxsJ/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/EUBE2021/d9gYaaqxsJ/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/EUBE2021/d9gYaaqxsJ/665115
+#EXTINF:-1 group-title="PREMIERE",b**N MOVIES PREMIERE 2 FHD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/571861
+#EXTINF:-1 group-title="PREMIERE",b**N MOVIES PREMIERE 2 HD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/571860
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665116
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665115
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665714
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 BACKUP
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665713
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665712
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 BACKUP
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665711
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665710
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 BACKUP
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665709
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 1 FHD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644357
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 2 FHD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644356
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 1
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665209
+#EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 2
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/665208
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644100
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644099
+#EXTINF:-1 group-title="ESPN 2",BR:  ESPN 2 HD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644042
+#EXTINF:-1 group-title="ESPN BRASIL",BR:  ESPN BRASIL HD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644041
+#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE 4 HD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644006
+#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE 3 HD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644007
+#EXTINF:-1 group-title="PREMIERE",BR:  PREMIERE CLUBES HD
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/644002
+#EXTINF:-1 group-title="SPORTV",BR:.SPORTV 4K
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/643904
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 1
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/643882
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN BRASIL
+http://rxs4.eu:8080/Edmondkosova/zkNlA76t7o/643878
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 USA
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/437059.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/269795.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 SD MX
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/192174.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/192175.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/192176.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 MX
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/268519.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/455149.ts
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/455150.ts
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/455151.ts
+#EXTINF:-1 group-title="PREMIERE",Golden Premiere 2 HD
+http://flexlive.lat:8080//live/fCy48yBYQQPe/LkUMVKa4dAdZ/455169.ts
+#EXTINF:-1 group-title="PREMIERE",CineStar Premiere 1
+http://zvjerka.com:2052/daniel17/75t4528/8653
+#EXTINF:-1 group-title="COMBATE",Arena (Combate mortal) (2011)
+http://flexlive.lat:8080/movie/fCy48yBYQQPe/LkUMVKa4dAdZ/416839.avi
+#EXTINF:-1 group-title="PREMIERE",CineStar Premiere 2
+http://zvjerka.com:2052/daniel17/75t4528/8654
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/288220
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE HD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/285681
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2 HD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/285687
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 3
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/285713
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 6
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/285719
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/285711
+#EXTINF:-1 group-title="SPORTV",BR: SporTV HD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/285723
+#EXTINF:-1 group-title="PREMIERE",Premiere Clubes FHD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/438924
+#EXTINF:-1 group-title="SPORTV 2",BR: SporTV 2 HD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/285725
+#EXTINF:-1 group-title="SPORTV 3",SporTV 3  SD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/438944
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 [HVEC/H265]
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/439041
+#EXTINF:-1 group-title="SPORTV",SPORTV  [HVEC/H265]
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/439043
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES  [HVEC/H265]
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/439039
+#EXTINF:-1 group-title="ESPN 3",MXÃ£â‚¬Â¢ESPN 3 HD*
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/165506
+#EXTINF:-1 group-title="ESPN 2",MXÃ£â‚¬Â¢ESPN 2 HD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/165504
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://lunar.pm:8080/2052404365/41437862tow/9568
+#EXTINF:-1 group-title="ESPN 4",MXÃ£â‚¬Â¢ESPN 4 HD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/452302
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD
+http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/170211
+#EXTINF:-1 group-title="COMBATE",BR: COMBATE
+http://lunar.pm:8080/2052404365/41437862tow/120599
+#EXTINF:-1 group-title="ESPN 2",Carib ESPN 2
+http://lunar.pm:8080/2052404365/41437862tow/120284
+#EXTINF:-1 group-title="ESPN 3",BR: ESPN 3
+http://lunar.pm:8080/2052404365/41437862tow/120623
+#EXTINF:-1 group-title="ESPN 4",BR: ESPN 4
+http://lunar.pm:8080/2052404365/41437862tow/120624
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 1
+http://lunar.pm:8080/2052404365/41437862tow/120716
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 8
+http://lunar.pm:8080/2052404365/41437862tow/120722
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://lunar.pm:8080/2052404365/41437862tow/120723
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV 1
+http://lunar.pm:8080/2052404365/41437862tow/120743
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://lunar.pm:8080/2052404365/41437862tow/120745
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2  [Live During Events Only]
+http://lunar.pm:8080/2052404365/41437862tow/120744
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://lunar.pm:8080/2052404365/41437862tow/120833
+#EXTINF:-1 group-title="COMBATE",PT: COMBATE
+http://lunar.pm:8080/2052404365/41437862tow/132010
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://181.224.200.5:2277/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://181.224.200.5:2277/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ESPN 4",ESPN 4HD
+http://181.224.200.5:2277/play/a02o/index.m3u8
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://38.199.4.105:9999/play/a0md/index.m3u8
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://38.199.4.105:9999/play/a0n1/index.m3u8
+#EXTINF:-1 group-title="ESPN 4",ESPN 4HD
+http://38.199.4.105:9999/play/a0ms/index.m3u8
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD
+http://177.93.46.178:8001/play/a08g/index.m3u8
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F13836/35b68aca/35326
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 1
+http://iptvtree.net:8080/F13836/35b68aca/4141
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 2
+http://iptvtree.net:8080/F13836/35b68aca/4142
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 1
+http://iptvtree.net:8080/F13836/35b68aca/299629
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://iptvtree.net:8080/F13836/35b68aca/299626
+#EXTINF:-1 group-title="PREMIERE",TV Gora Premiere 2
+http://iptvtree.net:8080/F13836/35b68aca/310036
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://iptvtree.net:8080/F13836/35b68aca/280280
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F13836/35b68aca/41918
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F13836/35b68aca/14816
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://iptvtree.net:8080/F13836/35b68aca/2374
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F33848/cbd9779b/41918
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F33848/cbd9779b/14816
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://iptvtree.net:8080/F33848/cbd9779b/2374
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 1
+http://iptvtree.net:8080/F25660/4184162c/297303
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/297302
+#EXTINF:-1 group-title="PREMIERE",#Premiere 1
+http://iptvtree.net:8080/F25660/4184162c/192112
+#EXTINF:-1 group-title="PREMIERE",#Premiere 3
+http://iptvtree.net:8080/F25660/4184162c/307140
+#EXTINF:-1 group-title="PREMIERE",#Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/307781
+#EXTINF:-1 group-title="PREMIERE",#Premiere 4
+http://iptvtree.net:8080/F25660/4184162c/307141
+#EXTINF:-1 group-title="PREMIERE",#Premiere 5
+http://iptvtree.net:8080/F25660/4184162c/307782
+#EXTINF:-1 group-title="PREMIERE",Illyrian Cinema Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/310106
+#EXTINF:-1 group-title="PREMIERE",Illyrian Cinema Premiere 1
+http://iptvtree.net:8080/F25660/4184162c/310105
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/310117
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F25660/4184162c/61170
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1
+http://iptvtree.net:8080/F25660/4184162c/310116
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F25660/4184162c/35326
+#EXTINF:-1 group-title="COMBATE",Combate
+http://iptvtree.net:8080/F25660/4184162c/8778
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F25660/4184162c/8801
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F25660/4184162c/290657
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://iptvtree.net:8080/F25660/4184162c/299345
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://iptvtree.net:8080/F25660/4184162c/4015
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://iptvtree.net:8080/F25660/4184162c/8783
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3
+http://iptvtree.net:8080/F25660/4184162c/8784
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F25660/4184162c/273212
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/4142
+#EXTINF:-1 group-title="PREMIERE",CineStar TV Premiere 1
+http://iptvtree.net:8080/F25660/4184162c/4141
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 1
+http://iptvtree.net:8080/F25660/4184162c/299629
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/299626
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F25660/4184162c/3032
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://iptvtree.net:8080/F25660/4184162c/295304
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/299623
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F25660/4184162c/38603
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F25660/4184162c/272119
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F25660/4184162c/272120
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://iptvtree.net:8080/F25660/4184162c/272121
+#EXTINF:-1 group-title="COMBATE",Combate
+http://iptvtree.net:8080/F25660/4184162c/306093
+#EXTINF:-1 group-title="PREMIERE",beIN Movies Premiere 1
+http://iptvtree.net:8080/F25660/4184162c/267063
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 1
+http://iptvtree.net:8080/F25660/4184162c/299628
+#EXTINF:-1 group-title="PREMIERE",Cinestar TV Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/299630
+#EXTINF:-1 group-title="PREMIERE",TV Gora Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/310036
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F25660/4184162c/281480
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F25660/4184162c/8689
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://iptvtree.net:8080/F25660/4184162c/280280
+#EXTINF:-1 group-title="PREMIERE",beIN Movies Premiere 2
+http://iptvtree.net:8080/F25660/4184162c/1765
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F25660/4184162c/41918
+#EXTINF:-1 group-title="UFC",UFC Fight Pass
+http://iptvtree.net:8080/F25660/4184162c/2374
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F25660/4184162c/14816
+#EXTINF:-1 group-title="COMBATE",Combate
+http://iptvtree.net:8080/F28940/a35514c5/8778
+#EXTINF:-1 group-title="ESPN 2",ESPN 2
+http://iptvtree.net:8080/F28940/a35514c5/8801
+#EXTINF:-1 group-title="ESPN 3",ESPN 3
+http://iptvtree.net:8080/F28940/a35514c5/290657
+#EXTINF:-1 group-title="ESPN 4",ESPN 4
+http://iptvtree.net:8080/F28940/a35514c5/299345
+#EXTINF:-1 group-title="SPORTV 2",SPORTV 2
+http://iptvtree.net:8080/F28940/a35514c5/8783
+#EXTINF:-1 group-title="SPORTV",SPORTV
+http://iptvtree.net:8080/F28940/a35514c5/4015
+#EXTINF:-1 group-title="SPORTV 3",SPORTV 3
+http://iptvtree.net:8080/F28940/a35514c5/8784
+#EXTINF:-1 group-title="COMBATE",Combate
+http://iptvtree.net:8080/F28940/a35514c5/306093
+#EXTINF:-1 group-title="COMBATE",BR: Combate
+http://iptvtree.net:8080/mitrovic/19106b7cb4/8778
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://iptvtree.net:8080/mitrovic/19106b7cb4/8801
+#EXTINF:-1 group-title="ESPN 3",BR: ESPN 3
+http://iptvtree.net:8080/mitrovic/19106b7cb4/290657
+#EXTINF:-1 group-title="ESPN 4",BR: ESPN 4
+http://iptvtree.net:8080/mitrovic/19106b7cb4/299345
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV
+http://iptvtree.net:8080/mitrovic/19106b7cb4/4015
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://iptvtree.net:8080/mitrovic/19106b7cb4/8783
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://iptvtree.net:8080/mitrovic/19106b7cb4/8784
+#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 1
+http://iptvtree.net:8080/mitrovic/19106b7cb4/4141
+#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 2
+http://iptvtree.net:8080/mitrovic/19106b7cb4/4142
+#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 2
+http://iptvtree.net:8080/mitrovic/19106b7cb4/299623
+#EXTINF:-1 group-title="COMBATE",PT: Combate
+http://iptvtree.net:8080/mitrovic/19106b7cb4/306093
+#EXTINF:-1 group-title="PREMIERE",QA: beIN Movies Premiere 1
+http://iptvtree.net:8080/mitrovic/19106b7cb4/267063
+#EXTINF:-1 group-title="PREMIERE",RS: Cinestar TV Premiere 1
+http://iptvtree.net:8080/mitrovic/19106b7cb4/299628
+#EXTINF:-1 group-title="PREMIERE",RS: Cinestar TV Premiere 2
+http://iptvtree.net:8080/mitrovic/19106b7cb4/299630
+#EXTINF:-1 group-title="PREMIERE",TR: beIN Movies Premiere 2
+http://iptvtree.net:8080/mitrovic/19106b7cb4/1765
+#EXTINF:-1 group-title="PREMIERE",RS: TV Gora Premiere 2
+http://iptvtree.net:8080/mitrovic/19106b7cb4/310036
+#EXTINF:-1 group-title="COMBATE",BR: Combate
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/8778
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/8801
+#EXTINF:-1 group-title="ESPN 3",BR: ESPN 3
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/290657
+#EXTINF:-1 group-title="SPORTV",BR: SPORTV
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4015
+#EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/8783
+#EXTINF:-1 group-title="ESPN 4",BR: ESPN 4
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/299345
+#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4142
+#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/84430
+#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/299623
+#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/8784
+#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4141
+#EXTINF:-1 group-title="COMBATE",PT: Combate
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/306093
+#EXTINF:-1 group-title="PREMIERE",QA: beIN Movies Premiere 1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267063
+#EXTINF:-1 group-title="PREMIERE",RS: Cinestar TV Premiere 1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/299628
+#EXTINF:-1 group-title="PREMIERE",RS: Cinestar TV Premiere 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/299630
+#EXTINF:-1 group-title="PREMIERE",RS: TV Gora Premiere 1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/310035
+#EXTINF:-1 group-title="PREMIERE",RS: TV Gora Premiere 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/310036
+#EXTINF:-1 group-title="PREMIERE",TR: beIN Movies Premiere 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1765
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791544
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791545
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791576
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791577
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791578
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791579
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791580
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791581
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791582
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791583
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791584
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791585
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791586
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791587
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791588
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158984
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158985
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158986
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158987
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158988
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158989
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158990
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158991
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158992
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158993
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158994
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158995
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158996
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158997
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158998
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158999
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159000
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159001
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159002
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159003
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159004
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159005
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159006
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159007
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159008
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159009
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159010
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159011
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159012
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159013
+#EXTINF:-1 group-title="ESPN 4",BR: ESPN 4 FHD
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043880
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN Brasil HEVC
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043886
+#EXTINF:-1 group-title="SPORTV 3",BR: SporTV 3 FHD
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1044250
+#EXTINF:-1 group-title="ESPN 2",NCAA: ESPN 2
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/996965
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043455
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043456
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043459
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043460
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043462
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043463
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043464
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791544
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791545
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791576
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791577
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791578
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791579
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791580
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791581
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791582
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791583
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791584
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791585
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791586
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791587
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791588
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158984
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158985
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158986
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158987
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158988
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158989
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158990
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158991
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158992
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158993
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158994
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158995
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158996
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158997
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158998
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158999
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159000
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159001
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159002
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159003
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159004
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159005
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159006
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159007
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159008
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159009
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159010
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159011
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159012
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159013
+#EXTINF:-1 group-title="ESPN 4",BR: ESPN 4 FHD
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043880
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2 SD
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043878
+#EXTINF:-1 group-title="ESPN 4",BR: ESPN 4 HD
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043881
+#EXTINF:-1 group-title="ESPN BRASIL",BR: ESPN Brasil HEVC
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043886
+#EXTINF:-1 group-title="PREMIERE",BR: Premiere 6 FHD (Event Only)
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1044188
+#EXTINF:-1 group-title="SPORTV 2",BR: SporTV 2 SD
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1044249
+#EXTINF:-1 group-title="SPORTV 3",BR: SporTV 3 SD
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1044253
+#EXTINF:-1 group-title="SPORTV",BR: SporTV SD
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1044258
+#EXTINF:-1 group-title="ESPN 2",NCAA: ESPN 2
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/996965
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043449
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043450
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043456
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043459
+#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043460
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
+http://distribuir04offshore.ddns.net:8080/live/carlos_21102021/342red32432/f75902d6-df3f-4f7a-8899-5202c08fc543.m3u
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 HD
+http://distribuir04offshore.ddns.net:8080/live/carlos_21102021/342red32432/90113cb7-a2bb-4343-aa1e-05cf8c7dfa18.m3u
+#EXTINF:-1 group-title="ESPN 4",ESPN 4 HD
+http://distribuir04offshore.ddns.net:8080/live/carlos_21102021/342red32432/7183cec8-b82f-42ff-8916-fee37ef8c5d2.m3u
+#EXTINF:-1 group-title="PREMIERE",TR: beIN MOVIES PREMIERE 2 HD
+http://siyahiptctv.xyz:8080/cadde0707@7127601/cadde0707@3861461/43971
+#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 1
+http://siyahiptctv.xyz:8080/cadde0707@7127601/cadde0707@3861461/296730
+#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 2
+http://siyahiptctv.xyz:8080/cadde0707@7127601/cadde0707@3861461/296731
+#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 1
+http://siyahiptctv.xyz:8080/cadde0707@7127601/cadde0707@3861461/151287
+#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 2
+http://siyahiptctv.xyz:8080/cadde0707@7127601/cadde0707@3861461/151288
 #EXTINF:-1 group-title="ESPN BRASIL",ESPN BRASIL
 http://matrivagoweb.xyz:8080/5322637/123456/52773
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 AR
-http://matrivagoweb.xyz:8080/5322637/123456/219005
 #EXTINF:-1 group-title="ESPN 2",ESPN 2 NORTE +
 http://matrivagoweb.xyz:8080/5322637/123456/219011
 #EXTINF:-1 group-title="COMBATE",DAZN COMBATE 
 http://matrivagoweb.xyz:8080/5322637/123456/312304
 #EXTINF:-1 group-title="ESPN BRASIL",ESPN BRASIL
 http://matrivagoweb.xyz:8080/981713593/234234/52773
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 COLOMBIA
-http://matrivagoweb.xyz:8080/981713593/234234/218970
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 AR
-http://matrivagoweb.xyz:8080/981713593/234234/219005
 #EXTINF:-1 group-title="ESPN 2",ESPN 2 NORTE +
 http://matrivagoweb.xyz:8080/981713593/234234/219011
 #EXTINF:-1 group-title="COMBATE",DAZN COMBATE 
 http://matrivagoweb.xyz:8080/981713593/234234/312304
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/27203
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/54416
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/27204
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/59421
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/59515
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://canal-pro.xyz:8080/bigotvalv2627h/alvarobigoyeysg/59514
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD [H]
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/276019.ts
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD [H]
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/276188.ts
 #EXTINF:-1 group-title="ESPN 2",TAN| ESPN 2 Africa
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/290436.ts
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/262626.ts
-#EXTINF:-1 group-title="COMBATE",Combate HD
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/292635.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD [H]
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/276019.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 1 HD
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292662.ts
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/262626.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 2 HD+
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292665.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 1 UHD
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/292664.ts
+#EXTINF:-1 group-title="COMBATE",Combate HD
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/292635.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 3 HD+
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292667.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 2 UHD
@@ -127,914 +1533,52 @@ http://092025.online:2086/live/775921709518/135552110567088d311a30d/292668.ts
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292670.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 5 HD+
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292671.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 6 HD+
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/292673.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 6 UHD
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/292674.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 5 UHD
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292672.ts
-#EXTINF:-1 group-title="SPORTV",SporTV 1 HD
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/292680.ts
+#EXTINF:-1 group-title="PREMIERE",Premiere 6 UHD
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/292674.ts
+#EXTINF:-1 group-title="PREMIERE",Premiere 6 HD+
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/292673.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 7 UHD
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292676.ts
 #EXTINF:-1 group-title="PREMIERE",Premiere 7 HD+
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292675.ts
-#EXTINF:-1 group-title="SPORTV 2",SporTV 2 HD
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/292683.ts
 #EXTINF:-1 group-title="SPORTV 3",SporTV 3 HD
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/292686.ts
-#EXTINF:-1 group-title="SPORTV 3",SporTV 3 HD+
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/292687.ts
+#EXTINF:-1 group-title="SPORTV 2",SporTV 2 HD
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/292683.ts
 #EXTINF:-1 group-title="PREMIERE",HR| Cinestar Premiere 1
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/285425.ts
-#EXTINF:-1 group-title="SPORTV 3",SporTV 3 UHD
-http://092025.online:2086/live/775921709518/135552110567088d311a30d/292688.ts
+#EXTINF:-1 group-title="SPORTV",SporTV 1 HD
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/292680.ts
 #EXTINF:-1 group-title="ESPN 2",[US] ESPN 2 HD [D]
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/289018.ts
 #EXTINF:-1 group-title="ESPN 2",[US] ESPN 2 HD [H]
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/289019.ts
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/942130242tv/u9520o/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/942130242tv/u9520o/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/942130242tv/u9520o/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/942130242tv/u9520o/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/942130242tv/u9520o/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/942130242tv/u9520o/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/942130242tv/u9520o/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/942130242tv/u9520o/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/942130242tv/u9520o/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/942130242tv/u9520o/27203
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/942130242tv/u9520o/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/942130242tv/u9520o/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/942130242tv/u9520o/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/942130242tv/u9520o/59419
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/942130242tv/u9520o/59514
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/934468939tv/230s8v/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/934468939tv/230s8v/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/934468939tv/230s8v/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/934468939tv/230s8v/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/934468939tv/230s8v/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/934468939tv/230s8v/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/934468939tv/230s8v/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/934468939tv/230s8v/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/934468939tv/230s8v/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/934468939tv/230s8v/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/934468939tv/230s8v/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/934468939tv/230s8v/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/934468939tv/230s8v/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/934468939tv/230s8v/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/934468939tv/230s8v/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/934468939tv/230s8v/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/934468939tv/230s8v/59514
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/951363474tv/73c345nz25/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/951363474tv/73c345nz25/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/951363474tv/73c345nz25/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/951363474tv/73c345nz25/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/951363474tv/73c345nz25/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/951363474tv/73c345nz25/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/951363474tv/73c345nz25/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/951363474tv/73c345nz25/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/951363474tv/73c345nz25/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/951363474tv/73c345nz25/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/951363474tv/73c345nz25/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/951363474tv/73c345nz25/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/951363474tv/73c345nz25/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/951363474tv/73c345nz25/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/951363474tv/73c345nz25/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/951363474tv/73c345nz25/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/951363474tv/73c345nz25/59514
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/947341371tv/9g6k9h/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/947341371tv/9g6k9h/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/947341371tv/9g6k9h/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/947341371tv/9g6k9h/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/947341371tv/9g6k9h/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/947341371tv/9g6k9h/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/947341371tv/9g6k9h/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/947341371tv/9g6k9h/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/947341371tv/9g6k9h/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/947341371tv/9g6k9h/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/947341371tv/9g6k9h/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/947341371tv/9g6k9h/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/947341371tv/9g6k9h/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/947341371tv/9g6k9h/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/947341371tv/9g6k9h/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/947341371tv/9g6k9h/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/947341371tv/9g6k9h/59514
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/972375747tv/376d6u/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/972375747tv/376d6u/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/972375747tv/376d6u/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/972375747tv/376d6u/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/972375747tv/376d6u/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/972375747tv/376d6u/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/972375747tv/376d6u/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/972375747tv/376d6u/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/972375747tv/376d6u/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/972375747tv/376d6u/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/972375747tv/376d6u/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/972375747tv/376d6u/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/972375747tv/376d6u/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/972375747tv/376d6u/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/972375747tv/376d6u/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/972375747tv/376d6u/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/972375747tv/376d6u/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/972375747tv/376d6u/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/966831715tv/92thjy4apt/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/966831715tv/92thjy4apt/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/966831715tv/92thjy4apt/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/966831715tv/92thjy4apt/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/966831715tv/92thjy4apt/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/966831715tv/92thjy4apt/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/966831715tv/92thjy4apt/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/966831715tv/92thjy4apt/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/966831715tv/92thjy4apt/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/966831715tv/92thjy4apt/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/966831715tv/92thjy4apt/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/966831715tv/92thjy4apt/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/966831715tv/92thjy4apt/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/966831715tv/92thjy4apt/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/966831715tv/92thjy4apt/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/966831715tv/92thjy4apt/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/966831715tv/92thjy4apt/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/966831715tv/92thjy4apt/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/977605802tv/2k0mdjk34/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/977605802tv/2k0mdjk34/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/977605802tv/2k0mdjk34/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/977605802tv/2k0mdjk34/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/977605802tv/2k0mdjk34/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/977605802tv/2k0mdjk34/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/977605802tv/2k0mdjk34/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/977605802tv/2k0mdjk34/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/977605802tv/2k0mdjk34/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/977605802tv/2k0mdjk34/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/977605802tv/2k0mdjk34/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/977605802tv/2k0mdjk34/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/977605802tv/2k0mdjk34/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/977605802tv/2k0mdjk34/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/977605802tv/2k0mdjk34/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/977605802tv/2k0mdjk34/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/977605802tv/2k0mdjk34/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/977605802tv/2k0mdjk34/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/98049157/crak1234/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/98049157/crak1234/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/98049157/crak1234/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/98049157/crak1234/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/98049157/crak1234/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/98049157/crak1234/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/98049157/crak1234/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/98049157/crak1234/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/98049157/crak1234/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/98049157/crak1234/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/98049157/crak1234/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/98049157/crak1234/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/98049157/crak1234/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/98049157/crak1234/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/98049157/crak1234/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/98049157/crak1234/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/98049157/crak1234/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/98049157/crak1234/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/979800516tv/47c9zi/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/979800516tv/47c9zi/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/979800516tv/47c9zi/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/979800516tv/47c9zi/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/979800516tv/47c9zi/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/979800516tv/47c9zi/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/979800516tv/47c9zi/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/979800516tv/47c9zi/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/979800516tv/47c9zi/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/979800516tv/47c9zi/27203
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/979800516tv/47c9zi/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/979800516tv/47c9zi/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/979800516tv/47c9zi/54416
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/979800516tv/47c9zi/27204
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/979800516tv/47c9zi/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/979800516tv/47c9zi/59419
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/979800516tv/47c9zi/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/979800516tv/47c9zi/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/989540936tv/9x4mw3/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/989540936tv/9x4mw3/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/989540936tv/9x4mw3/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/989540936tv/9x4mw3/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/989540936tv/9x4mw3/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/989540936tv/9x4mw3/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/989540936tv/9x4mw3/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/989540936tv/9x4mw3/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/989540936tv/9x4mw3/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/989540936tv/9x4mw3/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/989540936tv/9x4mw3/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/989540936tv/9x4mw3/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/989540936tv/9x4mw3/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/989540936tv/9x4mw3/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/989540936tv/9x4mw3/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/989540936tv/9x4mw3/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/989540936tv/9x4mw3/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/989540936tv/9x4mw3/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/991621919tv/y909v5/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/991621919tv/y909v5/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/991621919tv/y909v5/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/991621919tv/y909v5/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/991621919tv/y909v5/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/991621919tv/y909v5/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/991621919tv/y909v5/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/991621919tv/y909v5/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/991621919tv/y909v5/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/991621919tv/y909v5/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/991621919tv/y909v5/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/991621919tv/y909v5/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/991621919tv/y909v5/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/991621919tv/y909v5/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/991621919tv/y909v5/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/991621919tv/y909v5/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/991621919tv/y909v5/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/991621919tv/y909v5/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/994806617tv/6n4vx72/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/994806617tv/6n4vx72/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/994806617tv/6n4vx72/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/994806617tv/6n4vx72/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/994806617tv/6n4vx72/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/994806617tv/6n4vx72/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/994806617tv/6n4vx72/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/994806617tv/6n4vx72/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/994806617tv/6n4vx72/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/994806617tv/6n4vx72/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/994806617tv/6n4vx72/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/994806617tv/6n4vx72/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/994806617tv/6n4vx72/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/994806617tv/6n4vx72/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/994806617tv/6n4vx72/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/994806617tv/6n4vx72/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/994806617tv/6n4vx72/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/994806617tv/6n4vx72/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/997791182tv/ph537l/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/997791182tv/ph537l/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/997791182tv/ph537l/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/997791182tv/ph537l/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/997791182tv/ph537l/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/997791182tv/ph537l/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/997791182tv/ph537l/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/997791182tv/ph537l/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/997791182tv/ph537l/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/997791182tv/ph537l/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/997791182tv/ph537l/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/997791182tv/ph537l/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/997791182tv/ph537l/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/997791182tv/ph537l/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/997791182tv/ph537l/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/997791182tv/ph537l/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/997791182tv/ph537l/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/997791182tv/ph537l/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/999708234tv/fuankkhb/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/999708234tv/fuankkhb/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/999708234tv/fuankkhb/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/999708234tv/fuankkhb/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/999708234tv/fuankkhb/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/999708234tv/fuankkhb/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/999708234tv/fuankkhb/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/999708234tv/fuankkhb/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/999708234tv/fuankkhb/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/999708234tv/fuankkhb/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/999708234tv/fuankkhb/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/999708234tv/fuankkhb/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/999708234tv/fuankkhb/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/999708234tv/fuankkhb/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/999708234tv/fuankkhb/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/999708234tv/fuankkhb/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/999708234tv/fuankkhb/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/999708234tv/fuankkhb/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/Libet/O0Fo079eNF/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/Libet/O0Fo079eNF/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/Libet/O0Fo079eNF/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/Libet/O0Fo079eNF/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/Libet/O0Fo079eNF/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/Libet/O0Fo079eNF/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/Libet/O0Fo079eNF/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/Libet/O0Fo079eNF/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/Libet/O0Fo079eNF/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/Libet/O0Fo079eNF/27203
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/Libet/O0Fo079eNF/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/Libet/O0Fo079eNF/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/Libet/O0Fo079eNF/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/Libet/O0Fo079eNF/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/Libet/O0Fo079eNF/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/Libet/O0Fo079eNF/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/Libet/O0Fo079eNF/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/Libet/O0Fo079eNF/59515
-#EXTINF:-1 group-title="UFC",PPV UFC FIGHT PASS (HD) 2
-http://ultrax.online:8080/ryacarini/R0gger2023/20430
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 1
-http://ultrax.online:8080/ryacarini/R0gger2023/20693
-#EXTINF:-1 group-title="COMBATE",PPV COMBATE (HD) 2
-http://ultrax.online:8080/ryacarini/R0gger2023/20694
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 1
-http://ultrax.online:8080/ryacarini/R0gger2023/568
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE CLUBES BR (HD) 2
-http://ultrax.online:8080/ryacarini/R0gger2023/569
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 1 BR (HD)
-http://ultrax.online:8080/ryacarini/R0gger2023/561
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 5 BR (HD)
-http://ultrax.online:8080/ryacarini/R0gger2023/565
-#EXTINF:-1 group-title="PREMIERE",DEP PREMIERE 7 BR (HD)
-http://ultrax.online:8080/ryacarini/R0gger2023/567
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://ultrax.online:8080/ryacarini/R0gger2023/27157
-#EXTINF:-1 group-title="SPORTV 3",VIP_BR:SPORTV 3 HD
-http://ultrax.online:8080/ryacarini/R0gger2023/27203
-#EXTINF:-1 group-title="ESPN 2",ZCL ESPN 2 (HD)
-http://ultrax.online:8080/ryacarini/R0gger2023/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL ESPN 3 (HD)
-http://ultrax.online:8080/ryacarini/R0gger2023/54415
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://ultrax.online:8080/ryacarini/R0gger2023/27204
-#EXTINF:-1 group-title="ESPN 4",ZCL ESPN 4 (HD)
-http://ultrax.online:8080/ryacarini/R0gger2023/54416
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 SD | Mexico
-http://ultrax.online:8080/ryacarini/R0gger2023/59419
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 SD | Mexico
-http://ultrax.online:8080/ryacarini/R0gger2023/59421
-#EXTINF:-1 group-title="ESPN 2",Dep|| Espn 2 HD | Mexico
-http://ultrax.online:8080/ryacarini/R0gger2023/59514
-#EXTINF:-1 group-title="ESPN 3",Dep|| Espn 3 HD | Mexico
-http://ultrax.online:8080/ryacarini/R0gger2023/59515
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/salih1609/cA159aSDfp/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/Master78/gMPA75js4f/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/Master78b/gW7CTt8usr/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/ceray1000/ea1SHtrw6K/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/Thorsten10/cBFZU46rb4/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/anka-2726/kkzCzBS/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/Nadine14532/mY3XdfUK6r/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/Frank.H/gTDcPh1Z7p/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/Christian.1/wDDx19YD2r/10553
-#EXTINF:-1 group-title="ESPN 2",[WS-USA] Espn 2
-http://gp.centermod.xyz:8080/Master78b/gW7CTt8usr/10553
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 HD [H]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/276188.ts
-#EXTINF:-1 group-title="COMBATE",Combate HD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292635.ts
-#EXTINF:-1 group-title="ESPN 2",ESPN 2 FHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/262626.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 2 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292665.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 1 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292664.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 4 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292670.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 1 HD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292662.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 2 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292666.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 4 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292669.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 5 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292671.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 3 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292668.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 6 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292673.ts
-#EXTINF:-1 group-title="PREMIERE",HR| Cinestar Premiere 1
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/285425.ts
-#EXTINF:-1 group-title="PREMIERE",HR| Cinestar Premiere 2
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/285426.ts
 #EXTINF:-1 group-title="SPORTV 3",SporTV 3 HD+
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292687.ts
-#EXTINF:-1 group-title="PREMIERE",Premiere 5 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292672.ts
-#EXTINF:-1 group-title="SPORTV 2",SporTV 2 HD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292683.ts
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/20693
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/20694
-#EXTINF:-1 group-title="ESPN 2",[US] ESPN 2 HD [H]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/289019.ts
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/561
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/565
-#EXTINF:-1 group-title="SPORTV 3",SporTV 3 HD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292686.ts
-#EXTINF:-1 group-title="ESPN 2",[US] ESPN 2 HD [D]
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/289018.ts
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/568
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/54415
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/54414
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/20693
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/20430
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/292687.ts
 #EXTINF:-1 group-title="SPORTV 3",SporTV 3 UHD
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/292688.ts
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/20694
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/568
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/561
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://ultrapremium.cloud:8080/bartoloyanez/5wMA3Y2wXD4u/54416
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/565
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://canal-pro.xyz:8080/954058121tv/j271vj/54416
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://canal-pro.xyz:8080/954058121tv/j271vj/27157
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/20693
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/20694
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/568
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/561
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/565
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/27157
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/54416
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/20693
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/20694
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/568
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://canal-pro.xyz:8080/954058121tv/j271vj/27204
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://canal-pro.xyz:8080/alex937/LdAMRKKyA9l4/27204
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/561
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/565
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/27157
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://canal-pro.xyz:8080/935700164tv/fu64yqatp8/54416
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/20694
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/20693
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/568
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/561
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/565
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/27157
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://newultra.xyz:8080/pepebgtv23i/primopepebg7tv/54416
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/20693
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/568
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/20694
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/561
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/565
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://canal-pro.xyz:8080/972375747tv/376d6u/27157
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/54415
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://canal-pro.xyz:8080/972375747tv/376d6u/27204
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://canal-pro.xyz:8080/972375747tv/376d6u/54416
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/20693
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/20694
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/568
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/561
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/565
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://newultra.xyz:8080/988675398tv/290tb1/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://newultra.xyz:8080/988675398tv/290tb1/54416
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/20693
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/20694
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/568
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/561
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/565
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://newultra.xyz:8080/951163103tv/uu7049/27157
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://newultra.xyz:8080/951163103tv/uu7049/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://newultra.xyz:8080/951163103tv/uu7049/54416
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/20693
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/20694
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/568
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/561
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/27157
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/565
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://canal-pro.xyz:8080/977605802tv/2k0mdjk34/54416
-#EXTINF:-1 group-title="UFC",PPV, UFC FIGHT PASS (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/20430
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/20693
-#EXTINF:-1 group-title="COMBATE",PPV, COMBATE (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/20694
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/568
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE CLUBES BR (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/569
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 1 BR (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/561
-#EXTINF:-1 group-title="PREMIERE",DEP, PREMIERE 5 BR (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/565
-#EXTINF:-1 group-title="ESPN 2",VIP_BR:ESPN 2 HD
-http://newultra.xyz:8080/934468939tv/230s8v/27157
-#EXTINF:-1 group-title="SPORTV",VIP_BR:SPORTV HD
-http://newultra.xyz:8080/934468939tv/230s8v/27204
-#EXTINF:-1 group-title="ESPN 2",ZCL, ESPN 2 (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/54414
-#EXTINF:-1 group-title="ESPN 3",ZCL, ESPN 3 (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/54415
-#EXTINF:-1 group-title="ESPN 4",ZCL, ESPN 4 (HD)
-http://newultra.xyz:8080/934468939tv/230s8v/54416
+http://092025.online:2086/live/775921709518/135552110567088d311a30d/292688.ts
 #EXTINF:-1 group-title="PREMIERE",||TR|| beIN MOVIES PREMIERE 2 FHD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/50960.ts
 #EXTINF:-1 group-title="COMBATE",||BR|| Combate FHD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88604.ts
-#EXTINF:-1 group-title="SPORTV 2",||BR|| SporTV 2 FHD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88705.ts
 #EXTINF:-1 group-title="SPORTV",||PT|| SPORTV 4 FHD+
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/16811.ts
+#EXTINF:-1 group-title="SPORTV 2",||BR|| SporTV 2 FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88705.ts
 #EXTINF:-1 group-title="SPORTV 2",||BR|| SporTV 2 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88706.ts
 #EXTINF:-1 group-title="SPORTV 3",||BR|| SporTV 3 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88709.ts
 #EXTINF:-1 group-title="SPORTV 3",||BR|| SporTV 3 FHD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88708.ts
-#EXTINF:-1 group-title="SPORTV",||PT|| SPORTV 5 FHD+
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/16812.ts
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
-http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4892
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4855
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
+http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4892
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP01101762703638107/b4c297a8ea47/4892
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
@@ -1045,8 +1589,6 @@ http://vipapyenhmw.top:8080/VIP013011742986209373/ff9af4bb7d7e/4904
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4855
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4904
-#EXTINF:-1 group-title="PREMIERE",||BR|| PREMIERE 5 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88732.ts
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP0140175121921619/kc84th87iaxz/4892
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
@@ -1084,39 +1626,23 @@ http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4904
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP014411754852744544/0879d066e52e/4855
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
-http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4892
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://vipapyenhmw.top:8080/VIP0117177083167085/m47fwhgyua56/4904
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4892
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip5951767367212/f4778907e218/4904
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4855
+#EXTINF:-1 group-title="PREMIERE",||BR|| PREMIERE 5 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88732.ts
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4892
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4855
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4892
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4855
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip7571772657856/a13db9239de6/4904
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4890
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP014801749820434486/ae984cabc961/4904
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
-http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4892
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4890
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://vipapyenhmw.top:8080/vip8261776250702/fc789f2e852e/4904
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4855
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
@@ -1127,22 +1653,14 @@ http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4904
 http://vipapyenhmw.top:8080/vip2001767808148/310ee6fc38fc/4892
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4892
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip9801773162513/d2ca7587cb08/4904
 #EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4855
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
-http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4890
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4892
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/4892
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://vipapyenhmw.top:8080/vip2261769349635/2ba99507d5a7/4904
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4904
 #EXTINF:-1 group-title="PREMIERE",BR: PREMIERE CLUBES
@@ -1153,41 +1671,33 @@ http://vipapyenhmw.top:8080/VIP0199176755983357/qr9jycu6qdnb/4904
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4892
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://vipapyenhmw.top:8080/VIP018311744205891383/7b7f2742a1b6/4904
-#EXTINF:-1 group-title="PREMIERE",RS: CINESTAR PREMIERE 2
-http://xsoft25.online:8080/aliataoz/ba76582070/218137
-#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 2
-http://vipapyenhmw.top:8080/VIP015291754163932530/949745b503eb/4887
-#EXTINF:-1 group-title="ESPN BRASIL",BR:  ESPN BRASIL HD
-http://xsoft25.online:8080/aliataoz/ba76582070/219899
-#EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
-http://xsoft25.online:8080/aliataoz/ba76582070/220059
-#EXTINF:-1 group-title="COMBATE",BR: Combate
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8778
+#EXTINF:-1 group-title="PREMIERE",BR: PREMIERE 5
+http://vipapyenhmw.top:8080/vip8961767624068/fcb89c4a173f/4890
 #EXTINF:-1 group-title="ESPN 3",BR: ESPN 3
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/290657
+#EXTINF:-1 group-title="COMBATE",BR: Combate
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8778
 #EXTINF:-1 group-title="SPORTV",BR: SPORTV
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4015
-#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8801
 #EXTINF:-1 group-title="ESPN 4",BR: ESPN 4
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/299345
+#EXTINF:-1 group-title="ESPN 2",BR: ESPN 2
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8801
 #EXTINF:-1 group-title="SPORTV 2",BR: SPORTV 2
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8783
-#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4142
 #EXTINF:-1 group-title="SPORTV 3",BR: SPORTV 3
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/8784
 #EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 1
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4141
+#EXTINF:-1 group-title="PREMIERE",HR: CineStar TV Premiere 2
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/4142
 #EXTINF:-1 group-title="COMBATE",PT: Combate
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/306093
+#EXTINF:-1 group-title="PREMIERE",RS: TV Gora Premiere 2
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/310036
+#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 1
+http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/84430
 #EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 2
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/299623
 #EXTINF:-1 group-title="PREMIERE",QA: beIN Movies Premiere 1
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/267063
-#EXTINF:-1 group-title="PREMIERE",RS: TV Gora Premiere 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/310036
-#EXTINF:-1 group-title="ESPN 2",VE: ESPN 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/306585
-#EXTINF:-1 group-title="PREMIERE",MK: Cinestar TV Premiere 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/84430
