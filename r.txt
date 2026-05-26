@@ -1,4 +1,3 @@
-xxx
 #EXTM3U
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/269794.ts
