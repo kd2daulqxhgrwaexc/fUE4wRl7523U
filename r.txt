@@ -1,3 +1,4 @@
+xxx
 #EXTM3U
 #EXTINF:-1 group-title="ESPN 3",ESPN 3
 http://flexlive.lat:8080//live/Clemente2024/J5XtVRb6KPLj/269794.ts
@@ -655,95 +656,95 @@ http://highschoolgirls.bounceme.net:2096/Tam/ebSBJMEf6m/775901
 http://smart.mediaking.fi:8080/live/adi_bl@yahoo.com/JVhkmXCdvj/370.ts
 #EXTINF:-1 group-title="PREMIERE",CINESTAR TV PREMIERE 2
 http://smart.mediaking.fi:8080/live/adi_bl@yahoo.com/JVhkmXCdvj/371.ts
-#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791544
-#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791545
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791577
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791578
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791576
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791579
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791580
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791581
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791582
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791583
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791584
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791585
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791586
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791587
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/791588
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158984
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158985
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158986
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158987
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158988
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158989
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158990
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158992
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158991
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158993
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158994
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158995
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158996
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158997
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158998
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1158999
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159001
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159000
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159002
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159003
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159004
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159005
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159006
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159007
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159008
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159009
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159010
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159011
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159012
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1159013
 #EXTINF:-1 group-title="COMBATE",BR: Combate FHD
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043816
@@ -761,27 +762,27 @@ http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1044249
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1044256
 #EXTINF:-1 group-title="ESPN 2",NCAA: ESPN 2
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/996965
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043449
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 3 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043451
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 5 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043453
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 7 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043455
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 9 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043457
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 10 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043458
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043459
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043460
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 13 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043461
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 14 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043462
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 19 á´´á´°
 http://toh-pan.xyz:8080/bonura69@hotmail.com/jYSfHEpKnXDN/1043467
 #EXTINF:-1 group-title="PREMIERE",RS: CINESTAR PREMIERE 2
 http://xsoft25.online:8080/dark56/ZWbfFWNYRa/218137
@@ -1005,13 +1006,13 @@ http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/439041
 http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/439043
 #EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES  [HVEC/H265]
 http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/439039
-#EXTINF:-1 group-title="ESPN 3",MXÃ£â‚¬Â¢ESPN 3 HD*
+#EXTINF:-1 group-title="ESPN 3",MXã€¢ESPN 3 HD*
 http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/165506
-#EXTINF:-1 group-title="ESPN 2",MXÃ£â‚¬Â¢ESPN 2 HD
+#EXTINF:-1 group-title="ESPN 2",MXã€¢ESPN 2 HD
 http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/165504
 #EXTINF:-1 group-title="ESPN 2",ESPN 2
 http://lunar.pm:8080/2052404365/41437862tow/9568
-#EXTINF:-1 group-title="ESPN 4",MXÃ£â‚¬Â¢ESPN 4 HD
+#EXTINF:-1 group-title="ESPN 4",MXã€¢ESPN 4 HD
 http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/452302
 #EXTINF:-1 group-title="ESPN 4",ESPN 4 HD
 http://dnsvod.com:8080/Eg7zg5W2GV/DyF0jt861f/170211
@@ -1251,95 +1252,95 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/310035
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/310036
 #EXTINF:-1 group-title="PREMIERE",TR: beIN Movies Premiere 2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1765
-#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791544
-#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791545
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791576
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791577
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791578
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791579
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791580
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791581
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791582
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791583
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791584
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791585
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791586
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791587
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791588
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158984
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158985
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158986
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158987
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158988
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158989
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158990
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158991
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158992
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158993
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158994
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158995
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158996
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158997
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158998
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158999
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159000
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159001
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159002
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159003
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159004
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159005
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159006
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159007
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159008
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159009
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159010
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159011
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159012
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159013
 #EXTINF:-1 group-title="ESPN 4",BR: ESPN 4 FHD
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043880
@@ -1349,109 +1350,109 @@ http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043886
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1044250
 #EXTINF:-1 group-title="ESPN 2",NCAA: ESPN 2
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/996965
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 7 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043455
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 8 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043456
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043459
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043460
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 14 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043462
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 15 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043463
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 16 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043464
-#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791544
-#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Disney+ Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791545
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791576
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791577
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 3 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791578
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 4 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791579
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 5 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791580
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 6 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791581
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 7 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791582
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 8 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791583
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 9 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791584
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 10 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791585
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791586
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791587
-#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Netflix Premiere 13 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/791588
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158984
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158985
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 3 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158986
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 4 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158987
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 5 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158988
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 6 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158989
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 7 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158990
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 8 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158991
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 9 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158992
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 10 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158993
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158994
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158995
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 13 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158996
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 14 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158997
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 15 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158998
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 16 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1158999
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 17 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159000
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 18 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159001
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 19 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159002
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 20 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159003
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 21 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159004
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 22 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159005
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 23 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159006
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 24 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159007
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 25 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159008
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 26 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159009
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 27 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159010
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 28 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159011
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 29 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159012
-#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",Sky Store Premiere 30 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1159013
 #EXTINF:-1 group-title="ESPN 4",BR: ESPN 4 FHD
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043880
@@ -1471,15 +1472,15 @@ http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1044253
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1044258
 #EXTINF:-1 group-title="ESPN 2",NCAA: ESPN 2
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/996965
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 1 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 1 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043449
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 2 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 2 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043450
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 8 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 8 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043456
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 11 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 11 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043459
-#EXTINF:-1 group-title="PREMIERE",Ã¢â„¢Â¥ OnexXx ZZ Premiere 12 Ã¡Â´Â´Ã¡Â´Â°
+#EXTINF:-1 group-title="PREMIERE",â™¥ OnexXx ZZ Premiere 12 á´´á´°
 http://toh-pan.xyz:8080/kittyc94@yahoo.com/q3nYzhaj2EFu/1043460
 #EXTINF:-1 group-title="ESPN 2",ESPN 2 HD
 http://distribuir04offshore.ddns.net:8080/live/carlos_21102021/342red32432/f75902d6-df3f-4f7a-8899-5202c08fc543.m3u
