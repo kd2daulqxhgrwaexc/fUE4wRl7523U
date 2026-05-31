@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 group-title="COMBATE",COMBATE
+http://planettvweb.com:8091/FernDelgado867/fernan9678/12436
+#EXTINF:-1 group-title="COMBATE",COMBATE MORTAL (2011) (2011)
+http://planettvweb.com:8091/movie/FernDelgado867/fernan9678/156652.avi
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2
+http://planettvweb.com:8091/FernDelgado867/fernan9678/12489
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4
+http://planettvweb.com:8091/FernDelgado867/fernan9678/12491
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 SD 
+http://planettvweb.com:8091/FernDelgado867/fernan9678/11850
+#EXTINF:-1 group-title="ESPN 3",ESPN 3  SD
+http://planettvweb.com:8091/FernDelgado867/fernan9678/11849
+#EXTINF:-1 group-title="ESPN 4",Espn 4 SD
+http://planettvweb.com:8091/FernDelgado867/fernan9678/21456
+#EXTINF:-1 group-title="ESPN 3",Espn 3
+http://planettvweb.com:8091/FernDelgado867/fernan9678/34856
+#EXTINF:-1 group-title="ESPN 2",ESPN 2 CHILE
+http://planettvweb.com:8091/FernDelgado867/fernan9678/11966
+#EXTINF:-1 group-title="ESPN 3",ESPN 3 CHILE
+http://planettvweb.com:8091/FernDelgado867/fernan9678/11917
+#EXTINF:-1 group-title="PREMIERE",Golden Premiere 2
+http://planettvweb.com:8091/FernDelgado867/fernan9678/88283
+#EXTINF:-1 group-title="ESPN 3",Espn 3
+http://planettvweb.com:8091/FernDelgado867/fernan9678/24445
+#EXTINF:-1 group-title="COMBATE",||BR|| Combate FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88604.ts
+#EXTINF:-1 group-title="SPORTV",||PT|| SPORTV 4 FHD+
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/16811.ts
+#EXTINF:-1 group-title="SPORTV",||PT|| SPORTV 5 FHD+
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/16812.ts
+#EXTINF:-1 group-title="PREMIERE",||BR|| PREMIERE 6 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/88733.ts
 #EXTINF:-1 group-title="ESPN 4",ESPN 4
 http://iptvtree.net:8080/F25660/4184162c/299345
 #EXTINF:-1 group-title="SPORTV 2",SPORTV 2
